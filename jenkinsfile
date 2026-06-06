@@ -11,18 +11,22 @@ pipeline {
         stage('Git Checkout') {
             steps {
                 git branch: 'main',
-                url: 'https://github.com/Biswagudu/Angular-cicd-demo.git'
+                    url: 'https://github.com/Biswagudu/Angular-cicd-demo.git'
             }
         }
 
         stage('Sonar Scan') {
             steps {
-                withSonarQubeEnv('sonarQube') {
-                    sh '''
-                    sonar-scanner \
-                    -Dsonar.projectKey=angular-app \
-                    -Dsonar.sources=.
-                    '''
+                script {
+                    def scannerHome = tool 'sonar-scanner'
+
+                    withSonarQubeEnv('sonarQube') {
+                        sh """
+                        ${scannerHome}/bin/sonar-scanner \
+                        -Dsonar.projectKey=angular-app \
+                        -Dsonar.sources=.
+                        """
+                    }
                 }
             }
         }
@@ -38,9 +42,10 @@ pipeline {
         stage('Push Image') {
             steps {
                 withCredentials([usernamePassword(
-                credentialsId: 'dockerhub',
-                usernameVariable: 'USER',
-                passwordVariable: 'PASS')]) {
+                    credentialsId: 'dockerhub',
+                    usernameVariable: 'USER',
+                    passwordVariable: 'PASS'
+                )]) {
 
                     sh '''
                     echo $PASS | docker login -u $USER --password-stdin
