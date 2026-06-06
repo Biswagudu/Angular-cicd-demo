@@ -1,0 +1,4854 @@
+{
+  "LOCALE": {
+    "EN": "English",
+    "AR": "Arabic"
+  },
+  "APP_SHARED": {
+    "ACTIVE": "Active",
+    "DEFAULT": "Default",
+    "DELETE": "Delete",
+    "EDIT": "Edit",
+    "FILTERING": "Filtering",
+    "OPEN": "Open",
+    "REMOVE": "Remove",
+    "SAVE": "Save",
+    "SELECT_ALL": "Select All",
+    "DISMISS": "Dismiss"
+  },
+  "DATE_FORMAT": {
+    "24_HR_MEDIUM": "yyyy-MM-dd HH:mm:ss"
+  },
+  "NO_DATA": {
+    "TABLE_EMPTY": "No table data to display.",
+    "DROPDOWN_FILTER": "No results found."
+  },
+  "SEARCH": {
+    "BUTTON": "بحث",
+    "PLACEHOLDER": "بحث .."
+  },
+  "ERROR_PAGE": {
+    "PAGE_NOT_FOUND": "Page Not Found",
+    "USER_LIST_LABEL": "Go to Main Page"
+  },
+  "PAGE_TITLE": {
+    "COUNTRY_LIST": "قائمة بلد",
+    "SETTINGS": "الإعدادات",
+    "ADD_COUNTRY": "أضف بلد",
+    "VIEW_COUNTRY": "عرض البلد",
+    "EDIT_COUNTRY": " بلد تعديل",
+    "TERMINAL_CONFIG": "تكوين المحطة",
+    "DASHBOARD": "لوحة القيادة",
+    "REPORTS": "التقارير",
+    "FAULT": "Fault",
+    "FAULT_CATEGORY": "Fault Category",
+    "FAULT_CONFIGURATION": "Fault Configuration",
+    "FAULTCATEGORY_LIST": "Fault Category List",
+    "ADD_FAULTCATEGORY": "Add Fault Category",
+    "EDIT_FAULTCATEGORY": "Edit Fault Category",
+    "VIEW_FAULTCATEGORY": "View fault Category",
+    "FAULTCONFIG_LIST": "Fault Config List",
+    "ADD_FAULTCONFIG": "Add Fault Config",
+    "VIEW_FAULTCONFIG": "View fault Config",
+    "EDIT_FAULT_CONFIG": "Edit Fault Config",
+    "APP_DOWNLOAD": "Application download",
+    "APPLICATION_DOWNLOAD_LIST": "Application Download List",
+    "ADD_APPLICATION_DOWNLOAD": "Add Application Download",
+    "EDIT_APPLICATION_DOWNLOAD": "Edit Application Download",
+    "VIEW_APPLICATION_DOWNLOAD": "View Application Download",
+    "SUPPORTED_CARD_LIST": "Supported Card List",
+    "ADD_SUPPORTED_CARD": "Add Supported Card",
+    "EDIT_SUPPORTED_CARD": "Edit Supported Card",
+    "CARD_RISK_LIST": "Card Risk List",
+    "ADD_CARD_RISK": "Add Card Risk",
+    "EDIT_CARD_RISK": "Edit Card Risk",
+    "TERMINAL_RISK_LIST": "Terminal Risk List",
+    "ADD_TERMINAL_RISK": "Add Terminal Risk",
+    "EDIT_TERMINAL_RISK": "Edit Terminal Risk",
+    "AQUIRING_BANK_LIST": "Aquiring Bank List",
+    "ADD_AQUIRING_BANK": "Add Acquiring Bank",
+    "EDIT_AQUIRING_BANK": "Edit Acquiring Bank",
+    "SERVICE_PROVIDER_LIST": "Service Provider List",
+    "ADD_SERVICE_PROVIDER": "Add Service Provider",
+    "EDIT_SERVICE_PROVIDER": "Edit Service Provider",
+    "BIN_CONFIG_LIST": "BIN Configuration List",
+    "ADD_BIN_CONFIG": "Add BIN Configuration",
+    "EDIT_BIN_CONFIG": "Edit BIN Configuration",
+    "EXTERNAL_CONNECTION_LIST": "External Connection List",
+    "ADD_EXTERNAL_CONNECTION": "Add External Connection",
+    "EDIT_EXTERNAL_CONNECTION": "Edit External Connection",
+    "VIEW_EXTERNAL_CONNECTION": "View External Connection",
+    "KEY_CONFIG_LIST": "Key Configuration List",
+    "EDIT_KEY_CONFIG": "Edit Key Configuration",
+    "ADD_KEY_CONFIG": "Add Key Configuration",
+    "EMV_TERMINAL_LIST": "EMV Terminal List",
+    "ADD_EMV_TERMINAL": "Add EMV Terminal",
+    "EDIT_EMV_TERMINAL": "Edit EMV Terminal",
+    "VIEW_EMV_TERMINAL": "View EMV Terminal",
+    "TERMINAL": "طرفية",
+    "ADD_TERMINAL": " طرفيةأضف",
+    "EDIT_TERMINAL": "طرفية تعديل",
+    "VIEW_TERMINAL": "التفاصيل طرفية",
+    "MERCHANT_CATEGORY": "فئة التاجر",
+    "ADD_MERCHANT_CATEGORY": "إضافة فئة التاجر",
+    "EDIT_MERCHANT_CATEGORY": "تحرير فئة التاجر",
+    "VIEW_MERCHANT_CATEGORY": "عرض فئة التاجر",
+    "MERCHANT_GROUP":"مجموعة ميرشانت",
+    "ADD_MERCHANT_GROUP":"أضف مجموعة التاجر",
+    "EDIT_MERCHANT_GROUP":"تحرير مجموعة التاجر",
+    "VIEW_MERCHANT_GROUP":"رأي مجموعة ميرشانت",
+    "MERCHANT":"تاجر",
+    "ADD_MERCHANT":"أضف التاجر",
+    "EDIT_MERCHANT":"تحرير التاجر",
+    "VIEW_MERCHANT":"رأي تاجر",
+    "STORE":"متجر",
+    "ADD_STORE":"أضف المتجر",
+    "EDIT_STORE":"تحرير المتجر",
+    "VIEW_STORE":"عرض المتجر",
+    "DEPARTMENT":"قسم",
+    "ADD_DEPARTMENT":"اضافة قسم",
+    "EDIT_DEPARTMENT":"تحرير القسم",
+    "VIEW_DEPARTMENT":"مشاهدة القسم"
+  },
+  "BUTTON": {
+    "ADD": "أضف",
+    "RESET": "إعادة تعيين",
+    "CANCEL": "إلغاء",
+    "EDIT": "تعديل",
+    "UPDATE": "تحديث",
+    "VIEW": "رأي",
+    "DELETE": "حذف",
+    "LOGIN": "تسجيل الدخول",
+    "ADD_TERMINAL": "أضف",
+    "ADD_NEW_CONFIGURATION": "إضافة تكوين جديد",
+    "ALL_CONFIGURATION": "كل التكوين",
+    "FORGOT_PSWD": "هل نسيت كلمة المرور",
+    "ADD_NEW_TERMINAL": "أضف محطة جديدة",
+    "UPLOAD": "تحميل",
+    "SAVE": "حفظ"
+  },
+  "MENU": {
+    "DASHBOARD": "لوحة القيادة",
+    "FAULT": "خطأ",
+    "FAULT_CATEGORY": "Fault Category",
+    "FAULT_CONFIGURATION": "Fault Configuration",
+    "REPORTS": "التقارير",
+    "CONFIGURATION": "إدارة التكوين",
+    "ONBOARDING": "على متن الطائرة",
+    "PARAMETER": "معامل",
+    "SETTINGS": "الإعدادات",
+    "USER_MANAGEMENT": "إدارةالمستخدم",
+    "KEY": "تكوين المفتاح",
+    "MASTER": "ادارة المفاتيح",
+    "LOGOUT": "تسجيل خروج",
+    "HOME": "الصفحة الرئيسية",
+    "SETUP": "معالج الاعداد",
+    "POS_MONITORING": "مراقبة نقاط البيع",
+    "TERMINALS": "محطات",
+    "DOCUMENTS": "مستندات",
+    "ACQUIRING_BANK": "Acquiring Bank",
+    "APPLICATION_UPLOAD": "Application Upload",
+    "EMV" : "EMV"
+  },
+  "MASTERS": {
+    "COUNTRY": {
+      "ADD_COUNTRY": {
+        "COUNTRY_ID": {
+          "LABEL": "هوية الدولة",
+          "PLACEHOLDER": "هوية الدولة",
+          "ERROR": {
+            "REQUIRED": "معرف البلد مطلوب"
+          }
+        },
+        "COUNTRY_NAME": {
+          "LABEL": "اسم الدولة",
+          "PLACEHOLDER": "اسم الدولة",
+          "ERROR": {
+            "REQUIRED": "اسم البلد مطلوب"
+          }
+        },
+        "BASE_CURRENCY": {
+          "LABEL": "العملة الأساسية",
+          "PLACEHOLDER": "اختر العملة",
+          "ERROR": {
+            "REQUIRED": "العملة مطلوبة"
+          }
+        }
+      },
+      "EDIT_COUNTRY": {
+        "COUNTRY_ID": {
+          "LABEL": "هوية الدولة",
+          "PLACEHOLDER": "هوية الدولة",
+          "ERROR": {
+            "REQUIRED": "معرف البلد مطلوب"
+          }
+        },
+        "COUNTRY_NAME": {
+          "LABEL": "اسم الدولة",
+          "PLACEHOLDER": "اسم الدولة",
+          "ERROR": {
+            "REQUIRED": "اسم البلد مطلوب"
+          }
+        },
+        "BASE_CURRENCY": {
+          "LABEL": "العملة الأساسية",
+          "PLACEHOLDER": "اختر العملة",
+          "ERROR": {
+            "REQUIRED": "العملة مطلوبة"
+          }
+        }
+      }
+    },
+    "STATE": {
+      "ADD_STATE": {
+        "STATE_ID": {
+          "LABEL": "State Id",
+          "PLACEHOLDER": "State Id",
+          "ERROR": {
+            "REQUIRED": "State ID required"
+          }
+        },
+        "STATE_NAME": {
+          "LABEL": "State Name",
+          "PLACEHOLDER": "State Name",
+          "ERROR": {
+            "REQUIRED": "State name required"
+          }
+        }
+      },
+      "EDIT_STATE": {
+        "STATE_ID": {
+          "LABEL": "State Id",
+          "PLACEHOLDER": "State Id",
+          "ERROR": {
+            "REQUIRED": "State ID required"
+          }
+        },
+        "STATE_NAME": {
+          "LABEL": "State Name",
+          "PLACEHOLDER": "State Name",
+          "ERROR": {
+            "REQUIRED": "State name required"
+          }
+        }
+      }
+    },
+    "CITY": {
+      "ADD_CITY": {
+        "CITY_ID": {
+          "LABEL": "City Id",
+          "PLACEHOLDER": "City Id",
+          "ERROR": {
+            "REQUIRED": "City ID required"
+          }
+        },
+        "CITY_NAME": {
+          "LABEL": "City Name",
+          "PLACEHOLDER": "City Name",
+          "ERROR": {
+            "REQUIRED": "City name required"
+          }
+        }
+      },
+      "EDIT_CITY": {
+        "CITY_ID": {
+          "LABEL": "City Id",
+          "PLACEHOLDER": "City Id",
+          "ERROR": {
+            "REQUIRED": "City ID required"
+          }
+        },
+        "CITY_NAME": {
+          "LABEL": "City Name",
+          "PLACEHOLDER": "City Name",
+          "ERROR": {
+            "REQUIRED": "City name required"
+          }
+        }
+      }
+    },
+    "REGION": {
+      "ADD_REGION": {
+        "REGION_ID": {
+          "LABEL": "Region Id",
+          "PLACEHOLDER": "Region Id",
+          "ERROR": {
+            "REQUIRED": "Region ID required"
+          }
+        },
+        "REGION_NAME": {
+          "LABEL": "Region Name",
+          "PLACEHOLDER": "Region Name",
+          "ERROR": {
+            "REQUIRED": "Region name required"
+          }
+        }
+      },
+      "EDIT_REGION": {
+        "REGION_ID": {
+          "LABEL": "Region Id",
+          "PLACEHOLDER": "Region Id",
+          "ERROR": {
+            "REQUIRED": "Region ID required"
+          }
+        },
+        "REGION_NAME": {
+          "LABEL": "Region Name",
+          "PLACEHOLDER": "Region Name",
+          "ERROR": {
+            "REQUIRED": "Region name required"
+          }
+        }
+      }
+    },
+    "DEVICE_TYPE": {
+      "ADD_DEVICE_TYPE": {
+        "DEVICE_TYPE_ID": {
+          "LABEL": "Device Type Id",
+          "PLACEHOLDER": "Device Type Id",
+          "ERROR": {
+            "REQUIRED": "Device Type ID required"
+          }
+        },
+        "DEVICE_TYPE_DESC": {
+          "LABEL": "Device Type Description",
+          "PLACEHOLDER": "Device Type Description",
+          "ERROR": {
+            "REQUIRED": "Device Type Description required"
+          }
+        }
+      },
+      "EDIT_DEVICE_TYPE": {
+        "DEVICE_TYPE_ID": {
+          "LABEL": "Device Type Id",
+          "PLACEHOLDER": "Device Type Id",
+          "ERROR": {
+            "REQUIRED": "Device Type ID required"
+          }
+        },
+        "DEVICE_TYPE_DESC": {
+          "LABEL": "Device Type Description",
+          "PLACEHOLDER": "Device Type Description",
+          "ERROR": {
+            "REQUIRED": "Device Type Description required"
+          }
+        }
+      }
+    },
+    "DEVICE_MODEL": {
+      "ADD_DEVICE_MODEL": {
+        "DEVICE_MODEL_ID": {
+          "LABEL": "Device Model Id",
+          "PLACEHOLDER": "Device Model Id",
+          "ERROR": {
+            "REQUIRED": "Device Model ID required"
+          }
+        },
+        "DEVICE_MODEL_NAME": {
+          "LABEL": "Device Model Name",
+          "PLACEHOLDER": "Device Model Name",
+          "ERROR": {
+            "REQUIRED": "Device Model Name required"
+          }
+        },
+        "DEVICE_TYPE_ID": {
+          "LABEL": "Device Type Id",
+          "PLACEHOLDER": "Device Type Id",
+          "ERROR": {
+            "REQUIRED": "Device Type ID required"
+          }
+        }
+      },
+      "EDIT_DEVICE_MODEL": {
+        "DEVICE_MODEL_ID": {
+          "LABEL": "Device Model Id",
+          "PLACEHOLDER": "Device Model Id",
+          "ERROR": {
+            "REQUIRED": "Device Model ID required"
+          }
+        },
+        "DEVICE_MODEL_NAME": {
+          "LABEL": "Device Model Name",
+          "PLACEHOLDER": "Device Model Name",
+          "ERROR": {
+            "REQUIRED": "Device Model Name required"
+          }
+        },
+        "DEVICE_TYPE_ID": {
+          "LABEL": "Device Type Id",
+          "PLACEHOLDER": "Device Type Id",
+          "ERROR": {
+            "REQUIRED": "Device Type ID required"
+          }
+        }
+      }
+    }
+  },
+  "USER": {
+    "ADD_USER": {
+      "USER_ID": {
+        "LABEL": "User ID",
+        "PLACEHOLDER": " Enter User ID",
+        "ERROR": {
+          "REQUIRED": "User ID required",
+          "ISALPHANUMERIC": "User ID Should only be AlphaNumeric"
+        }
+      },
+      "USER_NAME": {
+        "LABEL": "User Name",
+        "PLACEHOLDER": "Enter user Name",
+        "ERROR": {
+          "REQUIRED": "User Name required",
+          "ISALPHANUMERIC": "User Name Should only be AlphaNumeric"
+        }
+      },
+      "USER_DESIGNATION": {
+        "LABEL": "Designation",
+        "PLACEHOLDER": "Enter Desingation",
+        "ERROR": {
+          "REQUIRED": "Designation required",
+          "ISALPHANUMERIC": "Designation Should only be AlphaNumeric"
+        }
+      },
+      "USER_EMAILID": {
+        "LABEL": "Email ID",
+        "PLACEHOLDER": "Enter Email ID",
+        "ERROR": {
+          "REQUIRED": "Email ID required",
+          "ISEMAIL": "Invalid Email ID"
+        }
+      },
+      "USER_MOBILENO": {
+        "LABEL": "Mobile Number",
+        "PLACEHOLDER": "Enter Mobile Number",
+        "ERROR": {
+          "REQUIRED": "Mobile Number Required",
+          "ISPHONENUMBER": "Invalid Mobile Number"
+        }
+      },
+      "USER_USERROLE": {
+        "LABEL": "User Role",
+        "PLACEHOLDER": "Enter User Role",
+        "ERROR": {
+          "REQUIRED": "User Role Required"
+        }
+      },
+      "USER_USERTYPE": {
+        "LABEL": "User Type",
+        "PLACEHOLDER": "Select User Type"
+      },
+      "USER_ACQUIRINGBANK": {
+        "LABEL": "Acquiring Bank",
+        "PLACEHOLDER": "Select Acquiring Bank",
+        "ERROR": {
+          "REQUIRED": "Acquiring Bank Required"
+        }
+      },
+      "USER_SERIVCEPROVIDER": {
+        "LABEL": "Service Provider",
+        "PLACEHOLDER": "Serivce Provider Required",
+        "ERROR": {
+          "REQUIRED": "Serivce Provider Required"
+        }
+      }
+    },
+    "EDIT_USER": {
+      "USER_ID": {
+        "LABEL": "User ID",
+        "PLACEHOLDER": " Enter User ID",
+        "ERROR": {
+          "REQUIRED": "User ID required",
+          "ISALPHANUMERIC": "User ID Should only be AlphaNumeric"
+        }
+      },
+      "USER_NAME": {
+        "LABEL": "User Name",
+        "PLACEHOLDER": "Enter user Name",
+        "ERROR": {
+          "REQUIRED": "User Name required",
+          "ISALPHANUMERIC": "User Name Should only be AlphaNumeric"
+        }
+      },
+      "USER_DESIGNATION": {
+        "LABEL": "Designation",
+        "PLACEHOLDER": "Enter Desingation",
+        "ERROR": {
+          "REQUIRED": "Designation required",
+          "ISALPHANUMERIC": "Designation Should only be AlphaNumeric"
+        }
+      },
+      "USER_EMAILID": {
+        "LABEL": "Email ID",
+        "PLACEHOLDER": "Enter Email ID",
+        "ERROR": {
+          "REQUIRED": "Email ID required",
+          "ISEMAIL": "Invalid Email ID"
+        }
+      },
+      "USER_MOBILENO": {
+        "LABEL": "Mobile Number",
+        "PLACEHOLDER": "Enter Mobile Number",
+        "ERROR": {
+          "REQUIRED": "Mobile Number Required",
+          "ISPHONENUMBER": "Invalid Mobile Number"
+        }
+      },
+      "USER_USERROLE": {
+        "LABEL": "User Role",
+        "PLACEHOLDER": "Enter User Role",
+        "ERROR": {
+          "REQUIRED": "User Role Required"
+        }
+      },
+      "USER_USERTYPE": {
+        "LABEL": "User Type",
+        "PLACEHOLDER": "Select User Type"
+      },
+      "USER_ACQUIRINGBANK": {
+        "LABEL": "Acquiring Bank",
+        "PLACEHOLDER": "Select Acquiring Bank",
+        "ERROR": {
+          "REQUIRED": "Acquiring Bank Required"
+        }
+      },
+      "USER_SERIVCEPROVIDER": {
+        "LABEL": "Service Provider",
+        "PLACEHOLDER": "Serivce Provider Required",
+        "ERROR": {
+          "REQUIRED": "Serivce Provider Required"
+        }
+      }
+    }
+  },
+  "PRELOGIN": {
+    "LOGIN": {
+      "LOGIN_AS": {
+        "LABEL": "سجل دخول",
+        "PLACEHOLDER": "اسم البنك"
+      },
+      "USERID": {
+        "LABEL": "معرف المستخدم",
+        "PLACEHOLDER": "أدخل هوية المستخدم"
+      },
+      "PASSWORD": {
+        "LABEL": "كلمه السر",
+        "PLACEHOLDER": "أدخل كلمة المرور"
+      }
+    }
+  },
+  "FAULT_CATEGORY": {
+    "ADD_FAULTCATEGORY": {
+      "FAULT_CATEGORYID": {
+        "LABEL": "Fault Category Id",
+        "PLACEHOLDER": "Fault Category Id",
+        "ERROR": {
+          "REQUIRED": "Fault Category Id required",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed",
+          "ISCATEGORYID": "Fault Category Id length max should be 12"
+        }
+      },
+      "FAULTCATEGORY_DESC": {
+        "LABEL": "Fault Category Description",
+        "PLACEHOLDER": "Fault Category Description",
+        "ERROR": {
+          "REQUIRED": "Fault Category Description required",
+          "ISCATEGORYDESC": "Fault Category Description length max should be 35",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      }
+    },
+    "EDIT_FAULTCATEGORY": {
+      "FAULT_CATEGORYID": {
+        "LABEL": "Fault Category Id",
+        "PLACEHOLDER": "Fault Category",
+        "ERROR": {
+          "REQUIRED": "Fault Category Id required",
+          "ISCATEGORYID": "Fault Category Id length should be min 3 and max 12",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "FAULTCATEGORY_DESC": {
+        "LABEL": "Fault Category Description",
+        "PLACEHOLDER": "Fault Category Description",
+        "ERROR": {
+          "REQUIRED": "Fault Category Description required",
+          "ISCATEGORYDESC": "Fault Category Description length should be min 3 and max 35",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      }
+    }
+  },
+  "FAULT_CONFIGURATION": {
+    "ADD_FAULT_CONFIGURATION": {
+      "FAULT_ID": {
+        "LABEL": "Fault Id",
+        "PLACEHOLDER": "Fault Id",
+        "ERROR": {
+          "REQUIRED": "Fault Id required",
+          "ISFAULTID": "Fault Id length max should be 12",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "FAULT_DESC": {
+        "LABEL": "Fault Description",
+        "PLACEHOLDER": "Fault Description",
+        "ERROR": {
+          "REQUIRED": "Fault Description required",
+          "ISFAULTDESC": "Fault Description length  max should be 35",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "FAULTCATEGORY_DESC": {
+        "LABEL": "Fault Category Description",
+        "PLACEHOLDER": "Select FaultCategory Description",
+        "ERROR": {
+          "REQUIRED": "Fault Category Description required"
+        }
+      },
+      "SEVERITY": {
+        "LABEL": "Severity",
+        "PLACEHOLDER": "Select Severity",
+        "ERROR": {
+          "REQUIRED": "Severity required"
+        }
+      },
+      "HEALTH_STATUS": {
+        "LABEL": "Health Status",
+        "PLACEHOLDER": "Select Health Status",
+        "ERROR": {
+          "REQUIRED": "Health Status required"
+        }
+      },
+      "FAULT_TYPE": {
+        "LABEL": "Fault Type",
+        "PLACEHOLDER": "Select Fault Type",
+        "ERROR": {
+          "REQUIRED": "Fault Type required"
+        }
+      },
+      "REOCCURING_THRES_LIMIT": {
+        "LABEL": "Threshold Limit",
+        "PLACEHOLDER": "Threshold Limit",
+        "ERROR": {
+          "REQUIRED": "Threslimit required",
+          "ISREOCCURINGANDFAULTTAT": "Threshold limit length should be min 1 and max 6",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "REOCCURING_THRES_DAYS": {
+        "LABEL": "Threshold Days",
+        "PLACEHOLDER": "Threshold Days",
+        "ERROR": {
+          "REQUIRED": "ThresDays required",
+          "ISREOCCURINGANDFAULTTAT": "Threshold Days length should be min 1 and max 6",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "REOCCURING_THRES_TYPE": {
+        "LABEL": "Threshold Type",
+        "PLACEHOLDER": "Select Threshold Type",
+        "ERROR": {
+          "REQUIRED": "Threshold Type required"
+        }
+      },
+      "REOCCURING_THRES_DURATION": {
+        "LABEL": "Threshold Duration (In min)",
+        "PLACEHOLDER": "Enter Threshold Duration  (In min)",
+        "ERROR": {
+          "REQUIRED": "Threshold Duration (In min) required",
+          "ISNUMERIC": "Only numeric characters are allowed",
+          "ISREOCCURINGANDFAULTTAT": "Threshold Duration length should be min 1 and max 6"
+        }
+      },
+      "FAULT_TAT": {
+        "LABEL": "Fault TAT (In min)",
+        "PLACEHOLDER": "Enter Fault TAT (In min)",
+        "ERROR": {
+          "REQUIRED": "Enter Fault TAT required",
+          "ISNUMERIC": "Only numeric characters are allowed",
+          "ISREOCCURINGANDFAULTTAT": "Fault TAT length should be less than or equal to 6"
+        }
+      }
+    },
+    "EDIT_FAULT_CONFIGURATION": {
+      "FAULT_ID": {
+        "LABEL": "Fault Id",
+        "PLACEHOLDER": "Fault Id",
+        "ERROR": {
+          "REQUIRED": "Fault Id required",
+          "ISFAULTID": "Fault Id length max should be 12",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "FAULT_DESC": {
+        "LABEL": "Fault Description",
+        "PLACEHOLDER": "Fault Dsecription",
+        "ERROR": {
+          "REQUIRED": "Fault Description required",
+          "ISFAULTDESC": "Fault Description length max should 35",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "FAULTCATEGORY_DESC": {
+        "LABEL": "Fault Category Description",
+        "PLACEHOLDER": "Select FaultCategory Description",
+        "ERROR": {
+          "REQUIRED": "FaultCategory Description required"
+        }
+      },
+      "SEVERITY": {
+        "LABEL": "Severity",
+        "PLACEHOLDER": "Select Severity",
+        "ERROR": {
+          "REQUIRED": "Severity required"
+        }
+      },
+      "HEALTH_STATUS": {
+        "LABEL": "Health Status",
+        "PLACEHOLDER": "Select Health Status",
+        "ERROR": {
+          "REQUIRED": "Health Status required"
+        }
+      },
+      "FAULT_TYPE": {
+        "LABEL": "Fault Type",
+        "PLACEHOLDER": "Select Fault Type",
+        "ERROR": {
+          "REQUIRED": "Fault Type required"
+        }
+      },
+      "REOCCURING_THRES_LIMIT": {
+        "LABEL": "Threshold Limit",
+        "PLACEHOLDER": "Threshold Limit",
+        "ERROR": {
+          "REQUIRED": "Thresholdlimit required",
+          "ISREOCCURINGANDFAULTTAT": "Threshold Limit length should be min 1 and max 6",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "REOCCURING_THRES_DAYS": {
+        "LABEL": "Threshold Days",
+        "PLACEHOLDER": "Threshold Days",
+        "ERROR": {
+          "REQUIRED": "ThresholdDays required",
+          "ISREOCCURINGANDFAULTTAT": "Threshold Days length should be min 1 and max 6",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "REOCCURING_THRES_TYPE": {
+        "LABEL": "Threshold Type",
+        "PLACEHOLDER": "Select Threshold Type",
+        "ERROR": {
+          "REQUIRED": "Threshold Type required"
+        }
+      },
+      "REOCCURING_THRES_DURATION": {
+        "LABEL": "Threshold Duration (In min)",
+        "PLACEHOLDER": "Enter Threshold Duration  (In min)",
+        "ERROR": {
+          "REQUIRED": "Threshold Duration (In min) required",
+          "ISNUMERIC": "Only numeric characters are allowed",
+          "ISREOCCURINGANDFAULTTAT": "Threshold Days length should be min 1 and max 6"
+        }
+      },
+      "FAULT_TAT": {
+        "LABEL": "Fault TAT (In min)",
+        "PLACEHOLDER": "Enter Fault TAT (In min)",
+        "ERROR": {
+          "REQUIRED": "Fault TAT required",
+          "ISNUMERIC": "Only numeric characters are allowed",
+          "ISREOCCURINGANDFAULTTAT": "Fault TAT length should be min 1 and max 6"
+        }
+      }
+    }
+  },
+  "KEY_CONFIGURATION": {
+    "ADD_KEY": {
+      "BANK_ID": {
+        "LABEL": "Bank Id",
+        "PLACEHOLDER": "Bank Id",
+        "ERROR": {
+          "REQUIRED": "Acquiring Bank Required"
+        }
+      },
+      "KEY_TYPE": {
+        "LABEL": "Key Type",
+        "PLACEHOLDER": "Key Type",
+        "ERROR": {
+          "REQUIRED": "Key Type Required"
+        }
+      },
+      "BDK_KEY": {
+        "LABEL": "BDK Key",
+        "PLACEHOLDER": "BDK Key",
+        "ERROR": {
+          "REQUIRED": "Please Enter BDK Key",
+          "ISALPHANUMERIC": "Only Alphanumerics characters are allowed in BDK Key"
+        }
+      },
+      "BDK_KEYINDEX": {
+        "LABEL": "BDK Key Index",
+        "PLACEHOLDER": "BDK Key Index",
+        "ERROR": {
+          "REQUIRED": "Please Enter BDK Key Index",
+          "ISALPHANUMERIC": "Only Aplhanumerics characters are allowed in BDK Key Index"
+        }
+      },
+      "KEY_NAME": {
+        "LABEL": "Key Name",
+        "PLACEHOLDER": "Key Name",
+        "ERROR": {
+          "REQUIRED": "Please Enter Key Name",
+          "ISALPHANUMERIC": "Only Alphabets characters are allowed in key name"
+        }
+      },
+      "STATUS": {
+        "LABEL": "Status",
+        "PLACEHOLDER": "Status",
+        "ERROR": {
+          "REQUIRED": "Please select the status"
+        }
+      }
+    },
+    "EDIT_KEY": {
+      "BANK_ID": {
+        "LABEL": "Bank Id",
+        "PLACEHOLDER": "Bank Id",
+        "ERROR": {
+          "REQUIRED": "Acquiring Bank Required"
+        }
+      },
+      "KEY_TYPE": {
+        "LABEL": "Key Type",
+        "PLACEHOLDER": "Key Type",
+        "ERROR": {
+          "REQUIRED": "Key Type Required"
+        }
+      },
+      "BDK_KEY": {
+        "LABEL": "BDK Key",
+        "PLACEHOLDER": "BDK Key",
+        "ERROR": {
+          "REQUIRED": "Please Enter BDK Key",
+          "ISALPHANUMERIC": "Only Alphanumerics characters are allowed in BDK Key"
+        }
+      },
+      "BDK_KEYINDEX": {
+        "LABEL": "BDK Key Index",
+        "PLACEHOLDER": "BDK Key Index",
+        "ERROR": {
+          "REQUIRED": "Please Enter BDK Key Index",
+          "ISALPHANUMERIC": "Only Aplhanumerics characters are allowed in BDK Key Index"
+        }
+      },
+      "KEY_NAME": {
+        "LABEL": "Key Name",
+        "PLACEHOLDER": "Key Name",
+        "ERROR": {
+          "REQUIRED": "Please Enter Key Name",
+          "ISALPHANUMERIC": "Only Alphabets characters are allowed in key name"
+        }
+      },
+      "STATUS": {
+        "LABEL": "Status",
+        "PLACEHOLDER": "Status",
+        "ERROR": {
+          "REQUIRED": "Please select the status"
+        }
+      }
+    }
+  },
+  "SERVICE_PROVIDER": {
+    "ADD_SERVICE": {
+      "SVPROVIDER_ID": {
+        "LABEL": "Service Provider Id",
+        "PLACEHOLDER": "Service Provider Id",
+        "ERROR": {
+          "REQUIRED": "Service Provider Id required",
+          "ISSERVICEID": "Service Provider Id length should be min 1 and max 6",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "SVPROVIDER_TYPE": {
+        "LABEL": "Service Provider Type",
+        "PLACEHOLDER": "Enter service Provider Type",
+        "ERROR": {
+          "REQUIRED": "Service Provider Type Required ",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed",
+          "ISSVPROVIDERTYPE": "Service Provider Type length should be min 1 and max 10"
+        }
+      },
+      "SVPROVIDER_NAME": {
+        "LABEL": "Service Provider Name",
+        "PLACEHOLDER": "Service Provider Name required",
+        "ERROR": {
+          "REQUIRED": "Service Provider Name required",
+          "ISSERVICENAME": "Service Provider Name max length should be 35 characters",
+          "ISALPHANUMERIC": "Only alpha numeric and .-_ characters are allowed in Service Provider Name"
+        }
+      },
+      "SVPROVIDER_FLAG": {
+        "LABEL": "Service Provider Flag",
+        "PLACEHOLDER": "Select Service Provider Flag",
+        "ERROR": {
+          "REQUIRED": "Service Provider Flag required"
+        }
+      },
+      "CONTACT_NAME": {
+        "LABEL": "Contact Name",
+        "PLACEHOLDER": "Enter Contact Name",
+        "ERROR": {
+          "REQUIRED": "Contact Name required",
+          "ISCONTACTNAME": "Conatct Name should max length should be 10 characters",
+          "ISALPHANUMERIC": "Only alpha numeric are allowed in Contact Name"
+        }
+      },
+      "CONTACNT_NUMBER": {
+        "LABEL": "Contact number",
+        "PLACEHOLDER": "Enter Contact number",
+        "ERROR": {
+          "REQUIRED": "Contact number required",
+          "ISNUMERIC": "Mobile number should be valid"
+        }
+      },
+      "CONTACT_EMAIL": {
+        "LABEL": "Mail id",
+        "PLACEHOLDER": "Enter valid mail id",
+        "ERROR": {
+          "REQUIRED": "Mail id required",
+          "ISSVPMAILID": "Mail id should be valid"
+        }
+      },
+      "SVP_STATUS": {
+        "LABEL": "Service provider status",
+        "PLACEHOLDER": "select Service provider status",
+        "ERROR": {
+          "REQUIRED": "Service provider status required"
+        }
+      },
+      "ESC_EMAIL1": {
+        "LABEL": "Escalation Mail1",
+        "PLACEHOLDER": "Enter valid Escalation mail1",
+        "ERROR": {
+          "REQUIRED": "Escalation Mail1 required",
+          "ISESCMAIL1": "Escalation Mail id 1 should be valid"
+        }
+      },
+      "ESC_MOB1": {
+        "LABEL": "Escalation Mobile1",
+        "PLACEHOLDER": "Enter Escalation Mobile1",
+        "ERROR": {
+          "ISNUMERIC": "Escalation Mobile number should be valid"
+        }
+      },
+      "ESC_DUR1": {
+        "LABEL": "Escalation Duration 1",
+        "PLACEHOLDER": "Enter Escalation Duration 1 (In Min)",
+        "ERROR": {
+          "ISNUMERIC": "Escalation duration 1 should be in numbers",
+          "ISDURATION": "Escalation duration 1 should have min 1 and max 6 characters"
+        }
+      },
+      "ESC_MAIL2": {
+        "LABEL": "Escalation Mail2",
+        "PLACEHOLDER": "Enter valid Escalation mail2",
+        "ERROR": {
+          "ISESCMAIL2": "Escalation Mail id should be valid"
+        }
+      },
+      "ESC_MOB2": {
+        "LABEL": "Escalation Mobile2",
+        "PLACEHOLDER": "Enter Escalation Mobile2",
+        "ERROR": {
+          "ISNUMERIC": "Escalation Mobile number2 should be valid"
+        }
+      },
+      "ESC_DUR2": {
+        "LABEL": "Escalation Duration2",
+        "PLACEHOLDER": "Enter Escalation Duration2(In Min)",
+        "ERROR": {
+          "ISNUMERIC": "Escalation duration 2 should be in numbers",
+          "ISDURATION": "Escalation duration 2 should have min 1 and max 6 characters"
+        }
+      },
+      "ESC_EMAIL3": {
+        "LABEL": "Escalation Mail3",
+        "PLACEHOLDER": "Enter valid Escalation mail3",
+        "ERROR": {
+          "REQUIRED": "Escalation Mail3 required",
+          "ISESCMAIL3": "Escalation Mail id 3 should be valid"
+        }
+      },
+      "ESC_MOB3": {
+        "LABEL": "Escalation Mobile3",
+        "PLACEHOLDER": "Enter Escalation Mobile3",
+        "ERROR": {
+          "ISNUMERIC": "Escalation Mobile number 3 should be valid"
+        }
+      },
+      "ESC_DUR3": {
+        "LABEL": "Escalation Duration3",
+        "PLACEHOLDER": "Enter Escalation Duration3(In Min)",
+        "ERROR": {
+          "ISNUMERIC": "Escalation duration 3 should be in numbers",
+          "ISDURATION": "Escalation duration 3 should have min 1 and max 6 characters"
+        }
+      },
+      "ESC_EMAIL4": {
+        "LABEL": "Escalation Mail4",
+        "PLACEHOLDER": "Enter valid Escalation mail4",
+        "ERROR": {
+          "ISESCMAIL4": "Escalation Mail id 4 should should be valid"
+        }
+      },
+      "ESC_MOB4": {
+        "LABEL": "Escalation Mobile4",
+        "PLACEHOLDER": "Enter Escalation Mobile4",
+        "ERROR": {
+          "ISNUMERIC": "Escalation Mobile number 4 should be valid"
+        }
+      },
+      "ESC_DUR4": {
+        "LABEL": "Escalation Duration4",
+        "PLACEHOLDER": "Enter Escalation Duration4(In Min)",
+        "ERROR": {
+          "ISNUMERIC": "Escalation duration 4 should be in numbers",
+          "ISDURATION": "Escalation duration 4 should have min 1 and max 6 characters"
+        }
+      },
+      "ESC_EMAIL5": {
+        "LABEL": "Escalation Mail5",
+        "PLACEHOLDER": "Enter valid Escalation mail5",
+        "ERROR": {
+          "ISESCMAIL5": "Escalation Mail id 5 should be valid"
+        }
+      },
+      "ESC_MOB5": {
+        "LABEL": "Escalation Mobile5",
+        "PLACEHOLDER": "Enter Escalation Mobile5",
+        "ERROR": {
+          "ISNUMERIC": "Escalation Mobile number 5 should be valid"
+        }
+      },
+      "ESC_DUR5": {
+        "LABEL": "Escalation Duration5",
+        "PLACEHOLDER": "Enter Escalation Duration5(In Min)",
+        "ERROR": {
+          "ISNUMERIC": "Escalation duration 5 should be in numbers",
+          "ISDURATION": "Escalation duration 5 should have min 1 and max 6 characters"
+        }
+      }
+    },
+    "EDIT_SERVICE": {
+      "SVPROVIDER_ID": {
+        "LABEL": "Service Provider Id",
+        "PLACEHOLDER": "Service Provider Id",
+        "ERROR": {
+          "REQUIRED": "Service Provider Id required",
+          "ISSERVICEID": "Service Provider Id length should be min 1 and max 10",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "SVPROVIDER_TYPE": {
+        "LABEL": "Service Provider Type",
+        "PLACEHOLDER": "Enter Service Provider Type",
+        "ERROR": {
+          "REQUIRED": "Select Service Provider Type ",
+          "ISSVPROVIDERTYPE": "Service Provider Type length should be min 1 and max 10",
+          "ISALPHANUMERIC": "Only alpha numeric are allowed in Service Provider Type"
+        }
+      },
+      "SVPROVIDER_NAME": {
+        "LABEL": "Service Provider Name",
+        "PLACEHOLDER": "Service Provider Name required",
+        "ERROR": {
+          "REQUIRED": "Service Provider Name required",
+          "ISSERVICENAME": "Service Provider Name max length should be 35 characters",
+          "ISALPHANUMERIC": "Only alpha numeric and .-_ characters are allowed in Service Provider Name"
+        }
+      },
+      "SVPROVIDER_FLAG": {
+        "LABEL": "Service Provider Flag",
+        "PLACEHOLDER": "Select Service Provider Flag",
+        "ERROR": {
+          "REQUIRED": "Service Provider Flag required"
+        }
+      },
+      "CONTACT_NAME": {
+        "LABEL": "Contact Name",
+        "PLACEHOLDER": "Enter Contact Name",
+        "ERROR": {
+          "REQUIRED": "Contact Name required",
+          "ISCONTACTNAME": "Contact Name max length should be 10 characters",
+          "ISALPHANUMERIC": "Only alpha numeric are allowed in Conatct Name"
+        }
+      },
+      "CONTACNT_NUMBER": {
+        "LABEL": "Contact number",
+        "PLACEHOLDER": "Enter Contact number",
+        "ERROR": {
+          "REQUIRED": "Contact number required",
+          "ISNUMERIC": "Mobile number should be valid"
+        }
+      },
+      "CONTACT_EMAIL": {
+        "LABEL": "Mail id",
+        "PLACEHOLDER": "Enter valid Mail id",
+        "ERROR": {
+          "REQUIRED": "Mail id required",
+          "ISSVPMAILID": "Mail id should max length should be 35 characters",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "SVP_STATUS": {
+        "LABEL": "Service provider status",
+        "PLACEHOLDER": "select Service provider status",
+        "ERROR": {
+          "REQUIRED": "Service provider status required"
+        }
+      },
+      "ESC_EMAIL1": {
+        "LABEL": "Escalation Mail1",
+        "PLACEHOLDER": "Enter valid Escalation mail1",
+        "ERROR": {
+          "ISESCMAIL1": "Escalation Mail id 1 should be valid"
+        }
+      },
+      "ESC_MOB1": {
+        "LABEL": "Escalation Mobile1",
+        "PLACEHOLDER": "Enter Escalation Mobile1",
+        "ERROR": {
+          "ISNUMERIC": "Escalation Mobile number 1 should be valid"
+        }
+      },
+      "ESC_DUR1": {
+        "LABEL": "Escalation Duration1",
+        "PLACEHOLDER": "Enter Escalation Duration 1(In Min)",
+        "ERROR": {
+          "ISNUMERIC": "Escalation duration 1 should be in numbers",
+          "ISDURATION": "Escalation duration 1 should have min 1 and max 6 characters"
+        }
+      },
+      "ESC_MAIL2": {
+        "LABEL": "Escalation Mail2",
+        "PLACEHOLDER": "Enter valid Escalation mail2",
+        "ERROR": {
+          "ISESCMAIL2": "Escalation Mail id 2 should be valid"
+        }
+      },
+      "ESC_MOB2": {
+        "LABEL": "Escalation Mobile2",
+        "PLACEHOLDER": "Enter Escalation Mobile2",
+        "ERROR": {
+          "ISNUMERIC": "Escalation Mobile number 1 should be valid"
+        }
+      },
+      "ESC_DUR2": {
+        "LABEL": "Escalation Duration2",
+        "PLACEHOLDER": "Enter Escalation Duration2(In Min)",
+        "ERROR": {
+          "ISNUMERIC": "Escalation duration 2 should be in numbers",
+          "ISDURATION": "Escalation duration 2 should have min 1 and max 6 characters"
+        }
+      },
+      "ESC_EMAIL3": {
+        "LABEL": "Escalation Mail3",
+        "PLACEHOLDER": "Enter valid Escalation mail3",
+        "ERROR": {
+          "ISESCMAIL3": "Escalation Mail id 3 should should be valid"
+        }
+      },
+      "ESC_MOB3": {
+        "LABEL": "Escalation Mobile3",
+        "PLACEHOLDER": "Enter Escalation Mobile3",
+        "ERROR": {
+          "ISNUMERIC": "Escalation Mobile number 3 should be valid"
+        }
+      },
+      "ESC_DUR3": {
+        "LABEL": "Escalation Duration3",
+        "PLACEHOLDER": "Enter Escalation Duration3(In Min)",
+        "ERROR": {
+          "ISNUMERIC": "Escalation duration 3 should be in numbers",
+          "ISDURATION": "Escalation duration 3 should have min 1 and max 6 characters"
+        }
+      },
+      "ESC_EMAIL4": {
+        "LABEL": "Escalation Mail4",
+        "PLACEHOLDER": "Enter valid Escalation mail4",
+        "ERROR": {
+          "ISESCMAIL4": "Escalation Mail id 4 should be valid"
+        }
+      },
+      "ESC_MOB4": {
+        "LABEL": "Escalation Mobile4",
+        "PLACEHOLDER": "Enter Escalation Mobile4",
+        "ERROR": {
+          "ISNUMERIC": "Escalation Mobile number 4 should be valid"
+        }
+      },
+      "ESC_DUR4": {
+        "LABEL": "Escalation Duration4",
+        "PLACEHOLDER": "Enter Escalation Duration4(In Min)",
+        "ERROR": {
+          "ISNUMERIC": "Escalation duration 4 should be in numbers",
+          "ISDURATION": "Escalation duration 4 should have min 1 and max 6 characters"
+        }
+      },
+      "ESC_EMAIL5": {
+        "LABEL": "Escalation Mail5",
+        "PLACEHOLDER": "Enter valid Escalation mail5",
+        "ERROR": {
+          "ISESCMAIL5": "Escalation Mail id 5 should be valid"
+        }
+      },
+      "ESC_MOB5": {
+        "LABEL": "Escalation Mobile5",
+        "PLACEHOLDER": "Enter Escalation Mobile4",
+        "ERROR": {
+          "ISNUMERIC": "Escalation Mobile number 5 should be valid"
+        }
+      },
+      "ESC_DUR5": {
+        "LABEL": "Escalation Duration5",
+        "PLACEHOLDER": "Enter Escalation Duration5(In Min)",
+        "ERROR": {
+          "ISNUMERIC": "Escalation duration 5 should be in numbers",
+          "ISDURATION": "Escalation duration 5 should have min 1 and max 6 characters"
+        }
+      }
+    }
+  },
+  "TERMINAL_CONFIG": {
+    "ADD_TERMINAL": {
+      "TERMINAL_UNIQUE_ID": {
+        "LABEL": "المعرف الفريد النهائي",
+        "PLACEHOLDER": "المعرف الفريد النهائي"
+      },
+      "TERMINAL_SNO": {
+        "LABEL": "الرقم التسلسلي النهائي",
+        "PLACEHOLDER": "الرقم التسلسلي النهائي",
+        "ERROR": {
+          "REQUIRED": "الرقم التسلسلي للمحطة مطلوب",
+          "ISTERMINALSERIALNUMBER": "يجب أن يكون الرقم التسلسلي للمحطة الطرفية أبجديًا رقميًا فقط ويجب أن يكون الطول 3 كحد أدنى و 20 كحد أقصى"
+        }
+      },
+      "TERMINAL_ID": {
+        "LABEL": "معرف المحطة",
+        "PLACEHOLDER": "معرف المحطة",
+        "ERROR": {
+          "REQUIRED": "مطلوب معرف الجهاز",
+          "ISALLZERO": "فقط الأصفار غير صالحة",
+          "ISALPHANUMERIC": "يجب أن يكون معرف المحطة الطرفية أبجديًا رقميًا فقط ويجب أن يكون الطول مساويًا لـ 16",
+          "ISTERMINALID":"يجب أن يكون طول معرف المحطة أقل من أو يساوي 18"
+        }
+      },
+      "TRSM_ID": {
+        "LABEL": "معرف TRSM",
+        "PLACEHOLDER": "معرف TRSM",
+        "ERROR": {
+          "REQUIRED": "معرف TRSM مطلوب",
+          "ISALLZERO": "فقط الأصفار غير صالحة",
+          "ISALPHANUMERIC": "يجب أن يكون معرف TRSM أبجديًا رقميًا فقط"
+        }
+      },
+      "TERMINAL_MAKE": {
+        "LABEL": "جعل المحطة",
+        "PLACEHOLDER": "اختر ماركة طرفية",
+        "ERROR": {
+          "REQUIRED": "جعل المحطة الطرفية المطلوبة"
+        }
+      },
+      "TERMINAL_MODEL": {
+        "LABEL": "نموذج المحطة",
+        "PLACEHOLDER": "اختر طراز المحطة",
+        "ERROR": {
+          "REQUIRED": "مطلوب نموذج المحطة الطرفية"
+        }
+      },
+      "FLM_VENDOR": {
+        "LABEL": "بائع FLM",
+        "PLACEHOLDER": "اختر بائع FLM",
+        "ERROR": {
+          "REQUIRED": "اختر FLM مطلوب"
+        }
+      },
+      "SLM_VENDOR": {
+        "LABEL": "بائع SLM",
+        "PLACEHOLDER": "اختر بائع SLM",
+        "ERROR": {
+          "REQUIRED": "اختر SLM مطلوب"
+        }
+      },
+      "MERCHANT_NAME": {
+        "LABEL": "اسم التاجر",
+        "PLACEHOLDER": "اختر اسم التاجر",
+        "ERROR": {
+          "REQUIRED": "اسم التاجر مطلوب"
+        }
+      },
+      "AUTH_TYPE": {
+        "LABEL": "نوع التفويض",
+        "PLACEHOLDER": "اختر نوع التفويض",
+        "ERROR": {
+          "REQUIRED": "نوع التفويض مطلوب"
+        }
+      },
+      "INSTALL_DATE": {
+        "LABEL": "تاريخ التثبيت",
+        "PLACEHOLDER": "اختر تاريخ التثبيت",
+        "ERROR": {
+          "REQUIRED": "تاريخ التثبيت مطلوب",
+          "ISVALIDDATE": "أدخل التاريخ بتنسيق dd-MM-yyyy"
+        }
+      },
+      "FLM_TAT_MIN": {
+        "LABEL": "FLM TAT (بالدقائق)",
+        "PLACEHOLDER": "أدخل FLM TAT (بالدقائق)",
+        "ERROR": {
+          "REQUIRED": "مطلوب FLM TAT (في دقيقة)",
+          "ISTERMINALTAT":"فقط الأرقام المسموح بها في FLM TAT (بالدقائق) بطول الحد الأدنى 1 والحد الأقصى 4"
+        }
+      },
+      "SLM_TAT_MIN": {
+        "LABEL": "SLM TAT (بالدقائق)",
+        "PLACEHOLDER": "أدخل SLM TAT (بالدقائق)",
+        "ERROR": {
+          "REQUIRED": "SLM TAT (In min) required",
+          "ISTERMINALTAT":"فقط الأرقام المسموح بها في FLM TAT (بالدقائق) بطول الحد الأدنى 1 والحد الأقصى 4"
+        }
+      },
+      "FLM_TAT": {
+        "LABEL": "FLM TAT",
+        "PLACEHOLDER": "FLM TAT",
+        "ERROR": {
+          "REQUIRED": "مطلوب FLM TAT"
+        }
+      },
+      "KEY_SYNC_INTERVAL": {
+        "LABEL": "الفاصل الزمني لمزامنة المفاتيح",
+        "PLACEHOLDER": "الفاصل الزمني لمزامنة المفاتيح",
+        "ERROR": {
+          "REQUIRED": "الفاصل الزمني لمزامنة المفاتيح مطلوب"
+        }
+      },
+      "VENDOR_MSP": {
+        "LABEL": "البائع / MSP",
+        "PLACEHOLDER": "البائع / MSP",
+        "ERROR": {
+          "REQUIRED": "البائع / MSP مطلوب"
+        }
+      },
+      "DEVICE_TYPE": {
+        "LABEL": "نوع الجهاز",
+        "PLACEHOLDER": "نوع الجهاز",
+        "ERROR": {
+          "REQUIRED": "نوع الجهاز مطلوب"
+        }
+      },
+      "DEVICE_MODEL": {
+        "LABEL": "طراز الجهاز",
+        "PLACEHOLDER": "طراز الجهاز",
+        "ERROR": {
+          "REQUIRED": "طراز الجهاز مطلوب"
+        }
+      },
+      "MERCHANT_CATEGORY": {
+        "LABEL": "فئة التاجر",
+        "PLACEHOLDER": "فئة التاجر",
+        "ERROR": {
+          "REQUIRED": "فئة التاجر مطلوبة"
+        }
+      },
+      "STORE": {
+        "LABEL": "متجر",
+        "PLACEHOLDER": "متجر",
+        "ERROR": {
+          "REQUIRED": "المتجر مطلوب"
+        }
+      },
+      "DEPARTMENT": {
+        "LABEL": "قسم",
+        "PLACEHOLDER": "قسم",
+        "ERROR": {
+          "REQUIRED": "قسم مطلوب"
+        }
+      },
+      "INCIDENT_VENDOR": {
+        "LABEL": "بائع الحوادث",
+        "PLACEHOLDER": "بائع الحوادث",
+        "ERROR": {
+          "REQUIRED": "مطلوب بائع الحادث"
+        }
+      },
+      "NSP": {
+        "LABEL": "NSP",
+        "PLACEHOLDER": "NSP",
+        "ERROR": {
+          "REQUIRED": "مطلوب NSP"
+        }
+      },
+      "INCIDENT_TAT": {
+        "LABEL": "حادثة تات (بالدقائق)",
+        "PLACEHOLDER": "حادثة تات",
+        "ERROR": {
+          "REQUIRED": "الحادث TAT مطلوب",
+          "ISTERMINALTAT":"فقط الأرقام المسموح بها في حادثة TAT بطول الحد الأدنى 1 والحد الأقصى 4"
+        }
+      },
+      "SYNC_INTERVAL": {
+        "LABEL": "الفاصل الزمني للتزامن",
+        "PLACEHOLDER": "الفاصل الزمني للتزامن",
+        "ERROR": {
+          "REQUIRED": "الفاصل الزمني للتزامن المطلوب"
+        }
+      },
+      "TERMINAL_CONTACT_NAME": {
+        "LABEL": "اسم جهة الاتصال الطرفية",
+        "PLACEHOLDER": "اسم جهة الاتصال الطرفية",
+        "ERROR": {
+          "REQUIRED": "مطلوب اسم جهة الاتصال الطرفية",
+          "ISALPHASPACE": "مسموح فقط بالأبجدية ذات أحرف المسافات",
+          "ISTERMINAL_CONTACT_NAME": "يجب أن يكون طول اسم جهة الاتصال 3 كحد أدنى و 35 كحد أقصى"
+        }
+      },
+      "TERMINAL_CONTACT_NO": {
+        "LABEL": "رقم اتصال POI Terminal",
+        "PLACEHOLDER": "رقم الاتصال بالمحطة",
+        "ERROR": {
+          "REQUIRED": "مطلوب رقم جهة اتصال المحطة",
+          "ISALLZERO": "فقط الأصفار غير صالحة",
+          "ISPHONENUMBER": "أدخل رقم اتصال صالح"
+        }
+      },
+      "TERMINAL_CONTACT_EMAIL": {
+        "LABEL": "البريد الإلكتروني لجهة اتصال المحطة الطرفية",
+        "PLACEHOLDER": "البريد الإلكتروني لجهة اتصال المحطة الطرفية",
+        "ERROR": {
+          "REQUIRED": "مطلوب البريد الإلكتروني لجهة اتصال المحطة الطرفية",
+          "ISEMAIL": "أدخل معرف بريد إلكتروني صالح",
+          "ISEMAILLENGTH": "يجب ألا يقل رقم تعريف البريد عن 10 أحرف ولا يزيد عن 150 حرفًا"
+        }
+      },
+      "COUNTRY": {
+        "LABEL": "بلد",
+        "PLACEHOLDER": "بلد",
+        "ERROR": {
+          "REQUIRED": "البلد مطلوب"
+        }
+      },
+      "STATE": {
+        "LABEL": "حالة",
+        "PLACEHOLDER": "حالة",
+        "ERROR": {
+          "REQUIRED": "الدولة مطلوبة"
+        }
+      },
+      "CITY": {
+        "LABEL": "مدينة",
+        "PLACEHOLDER": "مدينة",
+        "ERROR": {
+          "REQUIRED": "المدينة مطلوبة"
+        }
+      },
+      "REGION": {
+        "LABEL": "منطقة",
+        "PLACEHOLDER": "منطقة",
+        "ERROR": {
+          "REQUIRED": "المنطقة المطلوبة"
+        }
+      },
+      "ADDRESS": {
+        "LABEL": "عنوان",
+        "PLACEHOLDER": "عنوان",
+        "ERROR": {
+          "REQUIRED": "العنوان مطلوب"
+        }
+      },
+      "TERMINAL_BUSINESS_FLAG": {
+        "LABEL": "علم الأعمال الطرفية",
+        "PLACEHOLDER": "علم الأعمال الطرفية",
+        "ERROR": {
+          "REQUIRED": "مطلوب علم المحطة الطرفية"
+        }
+      },
+      "TERMINAL_BUSINESS_START_TIME": {
+        "LABEL": "وقت بدء عمل المحطة الطرفية",
+        "PLACEHOLDER": "hh:mm:ss",
+        "ERROR": {
+          "REQUIRED": "مطلوب وقت بدء عمل المحطة الطرفية",
+          "ISVALIDTIME": "أدخل الوقت بتنسيق hh: mm: ss"
+        }
+      },
+      "TERMINAL_BUSINESS_END_TIME": {
+        "LABEL": "وقت انتهاء العمل في المحطة الطرفية",
+        "PLACEHOLDER": "hh:mm:ss",
+        "ERROR": {
+          "REQUIRED": "مطلوب وقت انتهاء عمل المحطة",
+          "ISVALIDTIME": "أدخل الوقت بتنسيق hh: mm: ss"
+        }
+      },
+      "TERMINAL_SERVICE_DAYS": {
+        "LABEL": "أيام الخدمة النهائية",
+        "PLACEHOLDER": "حدد الأيام",
+        "ERROR": {
+          "REQUIRED": "مطلوب أيام خدمة محطة POI"
+        }
+      },
+      "ACTIVATION_STATUS": {
+        "LABEL": "حالة التفعيل أو التشغيل",
+        "PLACEHOLDER": "حدد الحالة",
+        "ERROR": {
+          "REQUIRED": "حالة التنشيط مطلوبة"
+        }
+      },
+      "SUSPEND_REASON": {
+        "LABEL": "تعليق السبب",
+        "PLACEHOLDER": "حدد سبب التعليق",
+        "ERROR": {
+          "REQUIRED": "تعليق السبب مطلوب"
+        }
+      },
+      "ARABIC_RECEIPT_HEADER_1": {
+        "LABEL": "عنوان إيصال باللغة العربية 1",
+        "PLACEHOLDER": "عنوان الإيصال العربي",
+        "ERROR": {
+          "REQUIRED": "مطلوب رأس إيصال باللغة العربية",
+          "ISALPHANUMERIC": "يسمح باستخدام أحرف أبجدية رقمية فقط"
+        }
+      },
+      "ARABIC_RECEIPT_HEADER_2": {
+        "LABEL": "عنوان إيصال باللغة العربية 2",
+        "PLACEHOLDER": "عنوان الإيصال العربي",
+        "ERROR": {
+          "REQUIRED": "مطلوب رأس إيصال باللغة العربية",
+          "ISALPHANUMERIC": "يسمح باستخدام أحرف أبجدية رقمية فقط"
+        }
+      },
+      "ENGLISH_RECEIPT_HEADER_1": {
+        "LABEL": "عنوان إيصال اللغة الإنجليزية 1",
+        "PLACEHOLDER": "رأس إيصال باللغة الإنجليزية",
+        "ERROR": {
+          "REQUIRED": "مطلوب رأس إيصال باللغة الإنجليزية",
+          "ISALPHANUMERIC": "يسمح باستخدام أحرف أبجدية رقمية فقط"
+        }
+      },
+      "ENGLISH_RECEIPT_HEADER_2": {
+        "LABEL": "عنوان إيصال الإنجليزية 2",
+        "PLACEHOLDER": "رأس إيصال باللغة الإنجليزية",
+        "ERROR": {
+          "REQUIRED": "مطلوب رأس إيصال باللغة الإنجليزية",
+          "ISALPHANUMERIC": "يسمح باستخدام أحرف أبجدية رقمية فقط"
+        }
+      },
+      "TRANSACTION_CURRENCY_EXPONENT": {
+        "LABEL": "أس العملة المعاملة",
+        "PLACEHOLDER": "أس العملة المعاملة",
+        "ERROR": {
+          "REQUIRED": "مطلوب عملة عملة الأس",
+          "ISALLZERO":"فقط الأصفار غير مسموح بها",
+          "ISNUMERIC": "مسموح بالأرقام فقط ويجب أن يكون الطول أقل من أو يساوي 2",
+          "ISCURRENCYEXPONENT": "مسموح بالأرقام فقط ويجب أن يكون الطول أقل من أو يساوي 2"
+        }
+      },
+      "CURRENCY_SYMBOL_ARABIC": {
+        "LABEL": "رمز العملة العربية (ألفا)",
+        "PLACEHOLDER": "رمز العملة العربية (ألفا)",
+        "ERROR": {
+          "REQUIRED": "رمز العملة عربي مطلوب",
+          "ISALLZERO":"فقط الأصفار غير مسموح بها",
+          "ISCURRENCYSYMBOL": "يجب أن يكون طول رمز العملة باللغة العربية أقل من أو يساوي 3",
+          "ISALPHANUMERIC": "يسمح باستخدام أحرف أبجدية رقمية فقط"
+        }
+      },
+      "CURRENCY_SYMBOL_ENGLISH": {
+        "LABEL": "رمز العملة الإنجليزية (ألفا)",
+        "PLACEHOLDER": "رمز العملة الإنجليزية (ألفا)",
+        "ERROR": {
+          "REQUIRED": "رمز العملة الإنجليزية مطلوب",
+          "ISALLZERO":"فقط الأصفار غير مسموح بها",
+          "ISCURRENCYSYMBOL": "يجب أن يكون طول اللغة الإنجليزية لرمز العملة أقل من أو يساوي 3",
+          "ISALPHANUMERIC": "يسمح باستخدام أحرف أبجدية رقمية فقط"
+        }
+      },
+      "RETAILER_LANGUAGE_INDICATOR": {
+        "LABEL": "مؤشر لغة البائع",
+        "PLACEHOLDER": "مؤشر لغة البائع",
+        "ERROR": {
+          "REQUIRED": "مطلوب مؤشر لغة بائع التجزئة",
+          "ISNUMERIC": "مسموح فقط بالأحرف الرقمية"
+        }
+      },
+      "TERMINAL_CURRENCY_CODE": {
+        "LABEL": "رمز العملة النهائية",
+        "PLACEHOLDER": "رمز العملة النهائية",
+        "ERROR": {
+          "REQUIRED": "رمز عملة المحطة الطرفية مطلوب",
+          "ISNUMERIC": "مسموح فقط بالأحرف الرقمية"
+        }
+      },
+      "RECONCILIATION_TIME": {
+        "LABEL": "وقت التسوية (دقيقة / ثانية)",
+        "PLACEHOLDER": "وقت التسوية (دقيقة / ثانية)",
+        "ERROR": {
+          "REQUIRED": "وقت التسوية المطلوب",
+          "ISALLZERO":"فقط الأصفار غير مسموح بها",
+          "ISRECONCILIATIONTIME": "مسموح بالأرقام فقط ويجب أن يكون الطول أقل من أو يساوي 4"
+        }
+      },
+      "MERCHANT_GROUP": {
+        "LABEL": "مجموعة ميرشانت",
+        "PLACEHOLDER": "مجموعة ميرشانت",
+        "ERROR": {
+          "REQUIRED": "مجموعة ميرشانت  مطلوب"
+        }
+      },
+      "EXCLUSIVE_FLAG": {
+        "LABEL": "علم خاص",
+        "PLACEHOLDER": "حدد علامة",
+        "ERROR": {
+          "REQUIRED": "مطلوب علامة حصرية"
+        }
+      },
+      "CARD_SCHEME_ID": {
+        "LABEL": "معرف مخطط البطاقة",
+        "PLACEHOLDER": "معرف مخطط البطاقة",
+        "ERROR": {
+          "REQUIRED": "معرف مخطط البطاقة مطلوب"
+        }
+      },
+      "ACCEPT_POLICIES": {
+        "LABEL": "قبول السياسات"
+      },
+      "CHOOSE_POLICIES": {
+        "LABEL": "اختر السياسات"
+      },
+      "POLICY_1": "السياسة 1",
+      "POLICY_2": "السياسة 2",
+      "POLICY_3": "السياسة 3",
+      "POLICY_4": "السياسة 4"
+    },
+    "EDIT_TERMINAL": {
+      "TERMINAL_UNIQUE_ID": {
+        "LABEL": "المعرف الفريد النهائي",
+        "PLACEHOLDER": "المعرف الفريد النهائي"
+      },
+      "TERMINAL_SNO": {
+        "LABEL": "الرقم التسلسلي النهائي",
+        "PLACEHOLDER": "الرقم التسلسلي النهائي",
+        "ERROR": {
+          "REQUIRED": "الرقم التسلسلي للمحطة مطلوب",
+          "ISTERMINALSERIALNUMBER": "يجب أن يكون الرقم التسلسلي للمحطة الطرفية أبجديًا رقميًا فقط ويجب أن يكون الطول 3 كحد أدنى و 20 كحد أقصى"
+        }
+      },
+      "TERMINAL_ID": {
+        "LABEL": "معرف المحطة",
+        "PLACEHOLDER": "معرف المحطة",
+        "ERROR": {
+          "REQUIRED": "مطلوب معرف الجهاز",
+          "ISALLZERO": "فقط الأصفار غير صالحة",
+          "ISALPHANUMERIC": "يجب أن يكون معرف المحطة الطرفية أبجديًا رقميًا فقط ويجب أن يكون الطول مساويًا لـ 16",
+          "ISTERMINALID":"يجب أن يكون طول معرف المحطة أقل من أو يساوي 18"
+        }
+      },
+      "TRSM_ID": {
+        "LABEL": "معرف TRSM",
+        "PLACEHOLDER": "معرف TRSM",
+        "ERROR": {
+          "REQUIRED": "معرف TRSM مطلوب",
+          "ISALLZERO": "فقط الأصفار غير صالحة",
+          "ISALPHANUMERIC": "يجب أن يكون معرف TRSM أبجديًا رقميًا فقط"
+        }
+      },
+      "TERMINAL_MAKE": {
+        "LABEL": "جعل المحطة",
+        "PLACEHOLDER": "اختر ماركة طرفية",
+        "ERROR": {
+          "REQUIRED": "جعل المحطة الطرفية المطلوبة"
+        }
+      },
+      "TERMINAL_MODEL": {
+        "LABEL": "نموذج المحطة",
+        "PLACEHOLDER": "اختر طراز المحطة",
+        "ERROR": {
+          "REQUIRED": "مطلوب نموذج المحطة الطرفية"
+        }
+      },
+      "FLM_VENDOR": {
+        "LABEL": "بائع FLM",
+        "PLACEHOLDER": "اختر بائع FLM",
+        "ERROR": {
+          "REQUIRED": "اختر FLM مطلوب"
+        }
+      },
+      "SLM_VENDOR": {
+        "LABEL": "بائع SLM",
+        "PLACEHOLDER": "اختر بائع SLM",
+        "ERROR": {
+          "REQUIRED": "اختر SLM مطلوب"
+        }
+      },
+      "MERCHANT_NAME": {
+        "LABEL": "اسم التاجر",
+        "PLACEHOLDER": "اختر اسم التاجر",
+        "ERROR": {
+          "REQUIRED": "اسم التاجر مطلوب"
+        }
+      },
+      "AUTH_TYPE": {
+        "LABEL": "نوع التفويض",
+        "PLACEHOLDER": "اختر نوع التفويض",
+        "ERROR": {
+          "REQUIRED": "نوع التفويض مطلوب"
+        }
+      },
+      "INSTALL_DATE": {
+        "LABEL": "تاريخ التثبيت",
+        "PLACEHOLDER": "اختر تاريخ التثبيت",
+        "ERROR": {
+          "REQUIRED": "تاريخ التثبيت مطلوب",
+          "ISVALIDDATE": "أدخل التاريخ بتنسيق dd-MM-yyyy"
+        }
+      },
+      "FLM_TAT_MIN": {
+        "LABEL": "FLM TAT (بالدقائق)",
+        "PLACEHOLDER": "أدخل FLM TAT (بالدقائق)",
+        "ERROR": {
+          "REQUIRED": "مطلوب FLM TAT (في دقيقة)",
+          "ISTERMINALTAT":"فقط الأرقام المسموح بها في FLM TAT (بالدقائق) بطول الحد الأدنى 1 والحد الأقصى 4"
+        }
+      },
+      "SLM_TAT_MIN": {
+        "LABEL": "SLM TAT (بالدقائق)",
+        "PLACEHOLDER": "أدخل SLM TAT (بالدقائق)",
+        "ERROR": {
+          "REQUIRED": "SLM TAT (In min) required",
+          "ISTERMINALTAT":"فقط الأرقام المسموح بها في FLM TAT (بالدقائق) بطول الحد الأدنى 1 والحد الأقصى 4"
+        }
+      },
+      "FLM_TAT": {
+        "LABEL": "FLM TAT",
+        "PLACEHOLDER": "FLM TAT",
+        "ERROR": {
+          "REQUIRED": "مطلوب FLM TAT"
+        }
+      },
+      "KEY_SYNC_INTERVAL": {
+        "LABEL": "الفاصل الزمني لمزامنة المفاتيح",
+        "PLACEHOLDER": "الفاصل الزمني لمزامنة المفاتيح",
+        "ERROR": {
+          "REQUIRED": "الفاصل الزمني لمزامنة المفاتيح مطلوب"
+        }
+      },
+      "VENDOR_MSP": {
+        "LABEL": "البائع / MSP",
+        "PLACEHOLDER": "البائع / MSP",
+        "ERROR": {
+          "REQUIRED": "البائع / MSP مطلوب"
+        }
+      },
+      "DEVICE_TYPE": {
+        "LABEL": "نوع الجهاز",
+        "PLACEHOLDER": "نوع الجهاز",
+        "ERROR": {
+          "REQUIRED": "نوع الجهاز مطلوب"
+        }
+      },
+      "DEVICE_MODEL": {
+        "LABEL": "طراز الجهاز",
+        "PLACEHOLDER": "طراز الجهاز",
+        "ERROR": {
+          "REQUIRED": "طراز الجهاز مطلوب"
+        }
+      },
+      "MERCHANT_CATEGORY": {
+        "LABEL": "فئة التاجر",
+        "PLACEHOLDER": "فئة التاجر",
+        "ERROR": {
+          "REQUIRED": "فئة التاجر مطلوبة"
+        }
+      },
+      "STORE": {
+        "LABEL": "متجر",
+        "PLACEHOLDER": "متجر",
+        "ERROR": {
+          "REQUIRED": "المتجر مطلوب"
+        }
+      },
+      "DEPARTMENT": {
+        "LABEL": "قسم",
+        "PLACEHOLDER": "قسم",
+        "ERROR": {
+          "REQUIRED": "قسم مطلوب"
+        }
+      },
+      "INCIDENT_VENDOR": {
+        "LABEL": "بائع الحوادث",
+        "PLACEHOLDER": "بائع الحوادث",
+        "ERROR": {
+          "REQUIRED": "مطلوب بائع الحادث"
+        }
+      },
+      "NSP": {
+        "LABEL": "NSP",
+        "PLACEHOLDER": "NSP",
+        "ERROR": {
+          "REQUIRED": "مطلوب NSP"
+        }
+      },
+      "INCIDENT_TAT": {
+        "LABEL": "حادثة تات (بالدقائق)",
+        "PLACEHOLDER": "حادثة تات",
+        "ERROR": {
+          "REQUIRED": "الحادث TAT مطلوب",
+          "ISTERMINALTAT":"فقط الأرقام المسموح بها في حادثة TAT بطول الحد الأدنى 1 والحد الأقصى 4"
+        }
+      },
+      "SYNC_INTERVAL": {
+        "LABEL": "الفاصل الزمني للتزامن",
+        "PLACEHOLDER": "الفاصل الزمني للتزامن",
+        "ERROR": {
+          "REQUIRED": "الفاصل الزمني للتزامن المطلوب"
+        }
+      },
+      "TERMINAL_CONTACT_NAME": {
+        "LABEL": "اسم جهة الاتصال الطرفية",
+        "PLACEHOLDER": "اسم جهة الاتصال الطرفية",
+        "ERROR": {
+          "REQUIRED": "مطلوب اسم جهة الاتصال الطرفية",
+          "ISALPHASPACE": "مسموح فقط بالأبجدية ذات أحرف المسافات",
+          "ISTERMINAL_CONTACT_NAME": "يجب أن يكون طول اسم جهة الاتصال 3 كحد أدنى و 35 كحد أقصى"
+        }
+      },
+      "TERMINAL_CONTACT_NO": {
+        "LABEL": "رقم اتصال POI Terminal",
+        "PLACEHOLDER": "رقم الاتصال بالمحطة",
+        "ERROR": {
+          "REQUIRED": "مطلوب رقم جهة اتصال المحطة",
+          "ISALLZERO": "فقط الأصفار غير صالحة",
+          "ISPHONENUMBER": "أدخل رقم اتصال صالح"
+        }
+      },
+      "TERMINAL_CONTACT_EMAIL": {
+        "LABEL": "البريد الإلكتروني لجهة اتصال المحطة الطرفية",
+        "PLACEHOLDER": "البريد الإلكتروني لجهة اتصال المحطة الطرفية",
+        "ERROR": {
+          "REQUIRED": "مطلوب البريد الإلكتروني لجهة اتصال المحطة الطرفية",
+          "ISEMAIL": "أدخل معرف بريد إلكتروني صالح",
+          "ISEMAILLENGTH": "يجب ألا يقل رقم تعريف البريد عن 10 أحرف ولا يزيد عن 150 حرفًا"
+        }
+      },
+      "COUNTRY": {
+        "LABEL": "بلد",
+        "PLACEHOLDER": "بلد",
+        "ERROR": {
+          "REQUIRED": "البلد مطلوب"
+        }
+      },
+      "STATE": {
+        "LABEL": "حالة",
+        "PLACEHOLDER": "حالة",
+        "ERROR": {
+          "REQUIRED": "الدولة مطلوبة"
+        }
+      },
+      "CITY": {
+        "LABEL": "مدينة",
+        "PLACEHOLDER": "مدينة",
+        "ERROR": {
+          "REQUIRED": "المدينة مطلوبة"
+        }
+      },
+      "REGION": {
+        "LABEL": "منطقة",
+        "PLACEHOLDER": "منطقة",
+        "ERROR": {
+          "REQUIRED": "المنطقة المطلوبة"
+        }
+      },
+      "ADDRESS": {
+        "LABEL": "عنوان",
+        "PLACEHOLDER": "عنوان",
+        "ERROR": {
+          "REQUIRED": "العنوان مطلوب"
+        }
+      },
+      "TERMINAL_BUSINESS_FLAG": {
+        "LABEL": "علم الأعمال الطرفية",
+        "PLACEHOLDER": "علم الأعمال الطرفية",
+        "ERROR": {
+          "REQUIRED": "مطلوب علم المحطة الطرفية"
+        }
+      },
+      "TERMINAL_BUSINESS_START_TIME": {
+        "LABEL": "وقت بدء عمل المحطة الطرفية",
+        "PLACEHOLDER": "hh:mm:ss",
+        "ERROR": {
+          "REQUIRED": "مطلوب وقت بدء عمل المحطة الطرفية",
+          "ISVALIDTIME": "أدخل الوقت بتنسيق hh: mm: ss"
+        }
+      },
+      "TERMINAL_BUSINESS_END_TIME": {
+        "LABEL": "وقت انتهاء العمل في المحطة الطرفية",
+        "PLACEHOLDER": "hh:mm:ss",
+        "ERROR": {
+          "REQUIRED": "مطلوب وقت انتهاء عمل المحطة",
+          "ISVALIDTIME": "أدخل الوقت بتنسيق hh: mm: ss"
+        }
+      },
+      "TERMINAL_SERVICE_DAYS": {
+        "LABEL": "أيام الخدمة النهائية",
+        "PLACEHOLDER": "حدد الأيام",
+        "ERROR": {
+          "REQUIRED": "مطلوب أيام خدمة محطة POI"
+        }
+      },
+      "ACTIVATION_STATUS": {
+        "LABEL": "حالة التفعيل أو التشغيل",
+        "PLACEHOLDER": "حدد الحالة",
+        "ERROR": {
+          "REQUIRED": "حالة التنشيط مطلوبة"
+        }
+      },
+      "SUSPEND_REASON": {
+        "LABEL": "تعليق السبب",
+        "PLACEHOLDER": "حدد سبب التعليق",
+        "ERROR": {
+          "REQUIRED": "تعليق السبب مطلوب"
+        }
+      },
+      "ARABIC_RECEIPT_HEADER_1": {
+        "LABEL": "عنوان إيصال باللغة العربية 1",
+        "PLACEHOLDER": "عنوان الإيصال العربي",
+        "ERROR": {
+          "REQUIRED": "مطلوب رأس إيصال باللغة العربية",
+          "ISALPHANUMERIC": "يسمح باستخدام أحرف أبجدية رقمية فقط"
+        }
+      },
+      "ARABIC_RECEIPT_HEADER_2": {
+        "LABEL": "عنوان إيصال باللغة العربية 2",
+        "PLACEHOLDER": "عنوان الإيصال العربي",
+        "ERROR": {
+          "REQUIRED": "مطلوب رأس إيصال باللغة العربية",
+          "ISALPHANUMERIC": "يسمح باستخدام أحرف أبجدية رقمية فقط"
+        }
+      },
+      "ENGLISH_RECEIPT_HEADER_1": {
+        "LABEL": "عنوان إيصال اللغة الإنجليزية 1",
+        "PLACEHOLDER": "رأس إيصال باللغة الإنجليزية",
+        "ERROR": {
+          "REQUIRED": "مطلوب رأس إيصال باللغة الإنجليزية",
+          "ISALPHANUMERIC": "يسمح باستخدام أحرف أبجدية رقمية فقط"
+        }
+      },
+      "ENGLISH_RECEIPT_HEADER_2": {
+        "LABEL": "عنوان إيصال الإنجليزية 2",
+        "PLACEHOLDER": "رأس إيصال باللغة الإنجليزية",
+        "ERROR": {
+          "REQUIRED": "مطلوب رأس إيصال باللغة الإنجليزية",
+          "ISALPHANUMERIC": "يسمح باستخدام أحرف أبجدية رقمية فقط"
+        }
+      },
+      "TRANSACTION_CURRENCY_EXPONENT": {
+        "LABEL": "أس العملة المعاملة",
+        "PLACEHOLDER": "أس العملة المعاملة",
+        "ERROR": {
+          "REQUIRED": "مطلوب عملة عملة الأس",
+          "ISALLZERO":"فقط الأصفار غير مسموح بها",
+          "ISNUMERIC": "مسموح بالأرقام فقط ويجب أن يكون الطول أقل من أو يساوي 2",
+          "ISCURRENCYEXPONENT": "مسموح بالأرقام فقط ويجب أن يكون الطول أقل من أو يساوي 2"
+        }
+      },
+      "CURRENCY_SYMBOL_ARABIC": {
+        "LABEL": "رمز العملة العربية (ألفا)",
+        "PLACEHOLDER": "رمز العملة العربية (ألفا)",
+        "ERROR": {
+          "REQUIRED": "رمز العملة عربي مطلوب",
+          "ISALLZERO":"فقط الأصفار غير مسموح بها",
+          "ISCURRENCYSYMBOL": "يجب أن يكون طول رمز العملة باللغة العربية أقل من أو يساوي 3",
+          "ISALPHANUMERIC": "يسمح باستخدام أحرف أبجدية رقمية فقط"
+        }
+      },
+      "CURRENCY_SYMBOL_ENGLISH": {
+        "LABEL": "رمز العملة الإنجليزية (ألفا)",
+        "PLACEHOLDER": "رمز العملة الإنجليزية (ألفا)",
+        "ERROR": {
+          "REQUIRED": "رمز العملة الإنجليزية مطلوب",
+          "ISALLZERO":"فقط الأصفار غير مسموح بها",
+          "ISCURRENCYSYMBOL": "يجب أن يكون طول اللغة الإنجليزية لرمز العملة أقل من أو يساوي 3",
+          "ISALPHANUMERIC": "يسمح باستخدام أحرف أبجدية رقمية فقط"
+        }
+      },
+      "RETAILER_LANGUAGE_INDICATOR": {
+        "LABEL": "مؤشر لغة البائع",
+        "PLACEHOLDER": "مؤشر لغة البائع",
+        "ERROR": {
+          "REQUIRED": "مطلوب مؤشر لغة بائع التجزئة",
+          "ISNUMERIC": "مسموح فقط بالأحرف الرقمية"
+        }
+      },
+      "TERMINAL_CURRENCY_CODE": {
+        "LABEL": "رمز العملة النهائية",
+        "PLACEHOLDER": "رمز العملة النهائية",
+        "ERROR": {
+          "REQUIRED": "رمز عملة المحطة الطرفية مطلوب",
+          "ISNUMERIC": "مسموح فقط بالأحرف الرقمية"
+        }
+      },
+      "RECONCILIATION_TIME": {
+        "LABEL": "وقت التسوية (دقيقة / ثانية)",
+        "PLACEHOLDER": "وقت التسوية (دقيقة / ثانية)",
+        "ERROR": {
+          "REQUIRED": "وقت التسوية المطلوب",
+          "ISALLZERO":"فقط الأصفار غير مسموح بها",
+          "ISRECONCILIATIONTIME": "مسموح بالأرقام فقط ويجب أن يكون الطول أقل من أو يساوي 4"
+        }
+      },
+      "MERCHANT_GROUP": {
+        "LABEL": "مجموعة ميرشانت",
+        "PLACEHOLDER": "مجموعة ميرشانت",
+        "ERROR": {
+          "REQUIRED": "مجموعة ميرشانت  مطلوب"
+        }
+      },
+      "EXCLUSIVE_FLAG": {
+        "LABEL": "علم خاص",
+        "PLACEHOLDER": "حدد علامة",
+        "ERROR": {
+          "REQUIRED": "مطلوب علامة حصرية"
+        }
+      },
+      "CARD_SCHEME_ID": {
+        "LABEL": "معرف مخطط البطاقة",
+        "PLACEHOLDER": "معرف مخطط البطاقة",
+        "ERROR": {
+          "REQUIRED": "معرف مخطط البطاقة مطلوب"
+        }
+      },
+      "ACCEPT_POLICIES": {
+        "LABEL": "قبول السياسات"
+      },
+      "CHOOSE_POLICIES": {
+        "LABEL": "اختر السياسات"
+      },
+      "POLICY_1": "السياسة 1",
+      "POLICY_2": "السياسة 2",
+      "POLICY_3": "السياسة 3",
+      "POLICY_4": "السياسة 4"
+    },
+    "LIST_TERMINAL": {
+      "AVAILABLE_POS": "نقطة بيع متاحة"
+    },
+    "ADD_MERCHANT": {
+      "BANKFIID": {
+        "LABEL": "Bank FIID",
+        "PLACEHOLDER": "Bank FIID",
+        "ERROR": {
+          "REQUIRED": "Bank FIID required"
+        }
+      },
+      "MERCHANT_ID": {
+        "LABEL": "Merchant ID",
+        "PLACEHOLDER": "Merchant ID",
+        "ERROR": {
+          "REQUIRED": "Merchant ID required",
+          "ISMERCHANTID": "Only Alphanumeric characters are allowed and the length should be less than 15"
+        }
+      },
+      "MERCHANT_CATEGORY_ID": {
+        "LABEL": "Merchant Category ID",
+        "PLACEHOLDER": "Merchant Category ID",
+        "ERROR": {
+          "REQUIRED": "Merchant Category ID required"
+        }
+      },
+      "MERCHANT_CR_NUMBER": {
+        "LABEL": "Merchant CR Number",
+        "PLACEHOLDER": "Merchant CR Number",
+        "ERROR": {
+          "REQUIRED": "Merchant CR Number required",
+          "ISMERCHANTCRN": "Only Alphanumeric characters are allowed and the length should be less than 20"
+        }
+      },
+      "MERCHANT_NAME": {
+        "LABEL": "Merchant Name",
+        "PLACEHOLDER": "Merchant Name",
+        "ERROR": {
+          "REQUIRED": "Merchant Name required",
+          "ISALPHABETS": "Only alphabets are allowed"
+        }
+      },
+      "MERCHANT_ADDRESS": {
+        "LABEL": "Merchant Address",
+        "PLACEHOLDER": "Merchant Address",
+        "ERROR": {
+          "REQUIRED": "Merchant Address required",
+          "ISADDRESS":"Only alphanumeric characters are allowed with @#,./-  and length should be less than 150"
+        }
+      },
+      "MERCHANT_CONTACT": {
+        "LABEL": "Merchant Contact",
+        "PLACEHOLDER": "Merchant Contact",
+        "ERROR": {
+          "REQUIRED": "Merchant Contact required",
+          "ISPHONENUMBER": "Enter a valid contact number"
+        }
+      },
+      "MERCHANT_EMAIL": {
+        "LABEL": "Merchant Email",
+        "PLACEHOLDER": "Merchant Email",
+        "ERROR": {
+          "REQUIRED": "Merchant Email required",
+          "ISEMAIL": "Enter valid email id"
+        }
+      },
+      "COUNTRY_NAME": {
+        "LABEL": "Country Name",
+        "PLACEHOLDER": "Country Name",
+        "ERROR": {
+          "REQUIRED": "Country Name required"
+        }
+      },
+      "STATE_NAME": {
+        "LABEL": "State Name",
+        "PLACEHOLDER": "State Name",
+        "ERROR": {
+          "REQUIRED": "State Name required"
+        }
+      },
+      "REGION_NAME": {
+        "LABEL": "Region Name",
+        "PLACEHOLDER": "Region Name",
+        "ERROR": {
+          "REQUIRED": "Region Name required"
+        }
+      },
+      "CITY_NAME": {
+        "LABEL": "City Name",
+        "PLACEHOLDER": "City Name",
+        "ERROR": {
+          "REQUIRED": "City Name required"
+        }
+      },
+      "MERCHANT_STATUS": {
+        "LABEL": "Merchant Status",
+        "PLACEHOLDER": "Merchant Status",
+        "ERROR": {
+          "REQUIRED": "Merchant Status required"
+        }
+      },
+      "ENGLISH_RECEIPT_1": {
+        "LABEL": "English Receipt 1",
+        "PLACEHOLDER": "English Receipt 1",
+        "ERROR": {
+          "REQUIRED": "English Receipt required"
+        }
+      },
+      "ENGLISH_RECEIPT_2": {
+        "LABEL": "English Receipt 2",
+        "PLACEHOLDER": "English Receipt 2",
+        "ERROR": {
+          "REQUIRED": "English Receipt required"
+        }
+      },
+      "ARABIC_RECEIPT_HEADER_1": {
+        "LABEL": "Arabic Receipt Header 1",
+        "PLACEHOLDER": "Arabic Receipt Header",
+        "ERROR": {
+          "REQUIRED": "Arabic Receipt Header required",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "ARABIC_RECEIPT_HEADER_2": {
+        "LABEL": "Arabic Receipt Header 2",
+        "PLACEHOLDER": "Arabic Receipt Header",
+        "ERROR": {
+          "REQUIRED": "Arabic Receipt Header required",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "ENGLISH_RECEIPT_HEADER_1": {
+        "LABEL": "English Receipt Header 1",
+        "PLACEHOLDER": "English Receipt Header",
+        "ERROR": {
+          "REQUIRED": "English Receipt Header required",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "ENGLISH_RECEIPT_HEADER_2": {
+        "LABEL": "English Receipt Header 2",
+        "PLACEHOLDER": "English Receipt Header",
+        "ERROR": {
+          "REQUIRED": "English Receipt Header required",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "TRANSACTION_CURRENCY_EXPONENT": {
+        "LABEL": "Transaction currency exponent",
+        "PLACEHOLDER": "Transaction currency exponent",
+        "ERROR": {
+          "REQUIRED": "Transaction currency exponent required",
+          "ISNUMERIC": "Only numeric characters are allowed",
+          "ISCURRENCYEXPONENT": "Only numbers are allowed and length should be less than or equal to 2"
+        }
+      },
+      "CURRENCY_SYMBOL_ARABIC": {
+        "LABEL": "Currency Symbol Arabic (ALPHA)",
+        "PLACEHOLDER": "Currency Symbol Arabic (ALPHA)",
+        "ERROR": {
+          "REQUIRED": "Currency Symbol Arabic required",
+          "ISCURRENCYSYMBOL": "Currency symbol Arabic length should be less than or equal to 3"
+        }
+      },
+      "CURRENCY_SYMBOL_ENGLISH": {
+        "LABEL": "Currency Symbol English (ALPHA)",
+        "PLACEHOLDER": "Currency Symbol English (ALPHA)",
+        "ERROR": {
+          "REQUIRED": "Currency Symbol English required",
+          "ISCURRENCYSYMBOL": "Currency symbol Arabic length should be less than or equal to 3"
+        }
+      },
+      "RETAILER_LANGUAGE_INDICATOR": {
+        "LABEL": "Retailer Language Indicator",
+        "PLACEHOLDER": "Retailer Language Indicator",
+        "ERROR": {
+          "REQUIRED": "Retailer Language Indicator required",
+          "ISNUMERIC": "Only numeric characters are allowed"
+        }
+      },
+      "TERMINAL_CURRENCY_CODE": {
+        "LABEL": "Terminal Currency Code",
+        "PLACEHOLDER": "Terminal Currency Code",
+        "ERROR": {
+          "REQUIRED": "Terminal Currency Code required",
+          "ISNUMERIC": "Only numeric characters are allowed"
+        }
+      },
+      "RECONCILIATION_TIME": {
+        "LABEL": "Reconciliation Time",
+        "PLACEHOLDER": "Reconciliation Time",
+        "ERROR": {
+          "REQUIRED": "Reconciliation Time required",
+          "ISRECONCILIATIONTIME": "Only numbers are allowed and length should be less than or equal to 4"
+        }
+      },
+      "CARD_SCHEME_ID": {
+        "LABEL": "Card Scheme ID",
+        "PLACEHOLDER": "Card Scheme ID",
+        "ERROR": {
+          "REQUIRED": "Card Scheme ID required"
+        }
+      },
+      "EXCLUSIVE_FLAG": {
+        "LABEL": "Exclusive Flag",
+        "PLACEHOLDER": "Select Flag",
+        "ERROR": {
+          "REQUIRED": "Exclusive Flag required"
+        }
+      },
+      "MERCHANT_NATIONAL_ID": {
+        "LABEL": "Merchant National ID",
+        "PLACEHOLDER": "Merchant National ID",
+        "ERROR": {
+          "REQUIRED": "Merchant National ID required",
+          "IS_MERCHANT_NATIONAL_ID": "Only numbers are allowed and length should be less than or equal to 20"
+        }
+      },
+      "CARD_RISK": {
+        "LABEL": "Card Risk ID",
+        "PLACEHOLDER": "Card Risk ID",
+        "ERROR": {
+          "REQUIRED": "Card Risk ID required"
+        }
+      },
+      "TERMINAL_RISK": {
+        "LABEL": "Terminal Risk ID",
+        "PLACEHOLDER": "Terminal Risk ID",
+        "ERROR": {
+          "REQUIRED": "Terminal Risk ID required"
+        }
+      }
+    },
+    "EDIT_MERCHANT": {
+      "BANKFIID": {
+        "LABEL": "Bank FIID",
+        "PLACEHOLDER": "Bank FIID",
+        "ERROR": {
+          "REQUIRED": "Bank FIID required"
+        }
+      },
+      "MERCHANT_ID": {
+        "LABEL": "Merchant ID",
+        "PLACEHOLDER": "Merchant ID",
+        "ERROR": {
+          "REQUIRED": "Merchant ID required",
+          "ISMERCHANTID": "Only Alphanumeric characters are allowed and the length should be less than 15"
+        }
+      },
+      "MERCHANT_CATEGORY_ID": {
+        "LABEL": "Merchant Category ID",
+        "PLACEHOLDER": "Merchant Category ID",
+        "ERROR": {
+          "REQUIRED": "Merchant Category ID required"
+        }
+      },
+      "MERCHANT_CR_NUMBER": {
+        "LABEL": "Merchant CR Number",
+        "PLACEHOLDER": "Merchant CR Number",
+        "ERROR": {
+          "REQUIRED": "Merchant CR Number required",
+          "ISMERCHANTCRN": "Only Alphanumeric characters are allowed and the length should be less than 20"
+        }
+      },
+      "MERCHANT_NAME": {
+        "LABEL": "Merchant Name",
+        "PLACEHOLDER": "Merchant Name",
+        "ERROR": {
+          "REQUIRED": "Merchant Name required",
+          "ISALPHABETS": "Only alphabets are allowed"
+        }
+      },
+      "MERCHANT_ADDRESS": {
+        "LABEL": "Merchant Address",
+        "PLACEHOLDER": "Merchant Address",
+        "ERROR": {
+          "REQUIRED": "Merchant Address required",
+          "ISADDRESS":"Only alphanumeric characters are allowed with @#,./-  and length should be less than 150"
+        }
+      },
+      "MERCHANT_CONTACT": {
+        "LABEL": "Merchant Contact",
+        "PLACEHOLDER": "Merchant Contact",
+        "ERROR": {
+          "REQUIRED": "Merchant Contact required",
+          "ISPHONENUMBER": "Enter a valid contact number"
+        }
+      },
+      "MERCHANT_EMAIL": {
+        "LABEL": "Merchant Email",
+        "PLACEHOLDER": "Merchant Email",
+        "ERROR": {
+          "REQUIRED": "Merchant Email required",
+          "ISEMAIL": "Enter valid email id"
+        }
+      },
+      "COUNTRY_NAME": {
+        "LABEL": "Country Name",
+        "PLACEHOLDER": "Country Name",
+        "ERROR": {
+          "REQUIRED": "Country Name required"
+        }
+      },
+      "STATE_NAME": {
+        "LABEL": "State Name",
+        "PLACEHOLDER": "State Name",
+        "ERROR": {
+          "REQUIRED": "State Name required"
+        }
+      },
+      "REGION_NAME": {
+        "LABEL": "Region Name",
+        "PLACEHOLDER": "Region Name",
+        "ERROR": {
+          "REQUIRED": "Region Name required"
+        }
+      },
+      "CITY_NAME": {
+        "LABEL": "City Name",
+        "PLACEHOLDER": "City Name",
+        "ERROR": {
+          "REQUIRED": "City Name required"
+        }
+      },
+      "MERCHANT_STATUS": {
+        "LABEL": "Merchant Status",
+        "PLACEHOLDER": "Merchant Status",
+        "ERROR": {
+          "REQUIRED": "Merchant Status required"
+        }
+      },
+      "ENGLISH_RECEIPT_1": {
+        "LABEL": "English Receipt 1",
+        "PLACEHOLDER": "English Receipt 1",
+        "ERROR": {
+          "REQUIRED": "English Receipt required"
+        }
+      },
+      "ENGLISH_RECEIPT_2": {
+        "LABEL": "English Receipt 2",
+        "PLACEHOLDER": "English Receipt 2",
+        "ERROR": {
+          "REQUIRED": "English Receipt required"
+        }
+      },
+      "ARABIC_RECEIPT_HEADER_1": {
+        "LABEL": "Arabic Receipt Header 1",
+        "PLACEHOLDER": "Arabic Receipt Header",
+        "ERROR": {
+          "REQUIRED": "Arabic Receipt Header required",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "ARABIC_RECEIPT_HEADER_2": {
+        "LABEL": "Arabic Receipt Header 2",
+        "PLACEHOLDER": "Arabic Receipt Header",
+        "ERROR": {
+          "REQUIRED": "Arabic Receipt Header required",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "ENGLISH_RECEIPT_HEADER_1": {
+        "LABEL": "English Receipt Header 1",
+        "PLACEHOLDER": "English Receipt Header",
+        "ERROR": {
+          "REQUIRED": "English Receipt Header required",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "ENGLISH_RECEIPT_HEADER_2": {
+        "LABEL": "English Receipt Header 2",
+        "PLACEHOLDER": "English Receipt Header",
+        "ERROR": {
+          "REQUIRED": "English Receipt Header required",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "TRANSACTION_CURRENCY_EXPONENT": {
+        "LABEL": "Transaction currency exponent",
+        "PLACEHOLDER": "Transaction currency exponent",
+        "ERROR": {
+          "REQUIRED": "Transaction currency exponent required",
+          "ISNUMERIC": "Only numeric characters are allowed",
+          "ISCURRENCYEXPONENT": "Only numbers are allowed and length should be less than or equal to 2"
+        }
+      },
+      "CURRENCY_SYMBOL_ARABIC": {
+        "LABEL": "Currency Symbol Arabic (ALPHA)",
+        "PLACEHOLDER": "Currency Symbol Arabic (ALPHA)",
+        "ERROR": {
+          "REQUIRED": "Currency Symbol Arabic required",
+          "ISCURRENCYSYMBOL": "Currency symbol Arabic length should be less than or equal to 3"
+        }
+      },
+      "CURRENCY_SYMBOL_ENGLISH": {
+        "LABEL": "Currency Symbol English (ALPHA)",
+        "PLACEHOLDER": "Currency Symbol English (ALPHA)",
+        "ERROR": {
+          "REQUIRED": "Currency Symbol English required",
+          "ISCURRENCYSYMBOL": "Currency symbol Arabic length should be less than or equal to 3"
+        }
+      },
+      "RETAILER_LANGUAGE_INDICATOR": {
+        "LABEL": "Retailer Language Indicator",
+        "PLACEHOLDER": "Retailer Language Indicator",
+        "ERROR": {
+          "REQUIRED": "Retailer Language Indicator required",
+          "ISNUMERIC": "Only numeric characters are allowed"
+        }
+      },
+      "TERMINAL_CURRENCY_CODE": {
+        "LABEL": "Terminal Currency Code",
+        "PLACEHOLDER": "Terminal Currency Code",
+        "ERROR": {
+          "REQUIRED": "Terminal Currency Code required",
+          "ISNUMERIC": "Only numeric characters are allowed"
+        }
+      },
+      "RECONCILIATION_TIME": {
+        "LABEL": "Reconciliation Time",
+        "PLACEHOLDER": "Reconciliation Time",
+        "ERROR": {
+          "REQUIRED": "Reconciliation Time required",
+          "ISRECONCILIATIONTIME": "Only numbers are allowed and length should be less than or equal to 4"
+        }
+      },
+      "CARD_SCHEME_ID": {
+        "LABEL": "Card Scheme ID",
+        "PLACEHOLDER": "Card Scheme ID",
+        "ERROR": {
+          "REQUIRED": "Card Scheme ID required"
+        }
+      },
+      "EXCLUSIVE_FLAG": {
+        "LABEL": "Exclusive Flag",
+        "PLACEHOLDER": "Select Flag",
+        "ERROR": {
+          "REQUIRED": "Exclusive Flag required"
+        }
+      },
+      "MERCHANT_NATIONAL_ID": {
+        "LABEL": "Merchant National ID",
+        "PLACEHOLDER": "Merchant National ID",
+        "ERROR": {
+          "REQUIRED": "Merchant National ID required",
+          "IS_MERCHANT_NATIONAL_ID": "Only numbers are allowed and length should be less than or equal to 20"
+        }
+      },
+      "CARD_RISK": {
+        "LABEL": "Card Risk ID",
+        "PLACEHOLDER": "Card Risk ID",
+        "ERROR": {
+          "REQUIRED": "Card Risk ID required"
+        }
+      },
+      "TERMINAL_RISK": {
+        "LABEL": "Terminal Risk ID",
+        "PLACEHOLDER": "Terminal Risk ID",
+        "ERROR": {
+          "REQUIRED": "Terminal Risk ID required"
+        }
+      }
+    },
+    "ADD_STORE": {
+      "MERCHANT_CATEGORY": {
+        "LABEL": "Merchant Category",
+        "PLACEHOLDER": "Merchant Category",
+        "ERROR": {
+          "REQUIRED": "Merchant Category required"
+        }
+      },
+      "MERCHANT_NAME": {
+        "LABEL": "Merchant Name",
+        "PLACEHOLDER": "Merchant Name",
+        "ERROR": {
+          "REQUIRED": "Merchant Name required",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "STORE_ID": {
+        "LABEL": "Store Id",
+        "PLACEHOLDER": "Store Id",
+        "ERROR": {
+          "REQUIRED": "Store Id required"
+        }
+      },
+      "STORE_NAME": {
+        "LABEL": "Store Name",
+        "PLACEHOLDER": "Store Name",
+        "ERROR": {
+          "REQUIRED": "Store Name required",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "STORE_ADDRESS": {
+        "LABEL": "Store Address",
+        "PLACEHOLDER": "Store Address",
+        "ERROR": {
+          "REQUIRED": "Store Address required"
+        }
+      },
+      "STORE_MOBILE_NUMBER": {
+        "LABEL": "Store Mobile Number",
+        "PLACEHOLDER": "Store Mobile Number",
+        "ERROR": {
+          "REQUIRED": "Store Mobile Number required",
+          "ISPHONENUMBER": "Enter a valid contact number"
+        }
+      },
+      "STORE_EMAIL_ID": {
+        "LABEL": "Store Email ID",
+        "PLACEHOLDER": "Store Email ID",
+        "ERROR": {
+          "REQUIRED": "Store Email ID required",
+          "ISEMAIL": "Enter valid email id"
+        }
+      },
+      "COUNTRY": {
+        "LABEL": "Country",
+        "PLACEHOLDER": "Select Country",
+        "ERROR": {
+          "REQUIRED": "Country required"
+        }
+      },
+      "STATE": {
+        "LABEL": "State",
+        "PLACEHOLDER": "Select State",
+        "ERROR": {
+          "REQUIRED": "State required"
+        }
+      },
+      "REGION": {
+        "LABEL": "Region",
+        "PLACEHOLDER": "Select Region",
+        "ERROR": {
+          "REQUIRED": "Region required"
+        }
+      },
+      "CITY": {
+        "LABEL": "City Name",
+        "PLACEHOLDER": "Select City",
+        "ERROR": {
+          "REQUIRED": "City required"
+        }
+      },
+      "STORE_STATUS": {
+        "LABEL": "Store Status",
+        "PLACEHOLDER": "Select Store Status",
+        "ERROR": {
+          "REQUIRED": "Store Status required"
+        }
+      },
+      "ENGLISH_RECEIPT_1": {
+        "LABEL": "English Receipt 1",
+        "PLACEHOLDER": "English Receipt 1",
+        "ERROR": {
+          "REQUIRED": "English Receipt required"
+        }
+      },
+      "ENGLISH_RECEIPT_2": {
+        "LABEL": "English Receipt 2",
+        "PLACEHOLDER": "English Receipt 2",
+        "ERROR": {
+          "REQUIRED": "English Receipt required"
+        }
+      },
+      "ARABIC_RECEIPT_1": {
+        "LABEL": "Arabic Receipt 1",
+        "PLACEHOLDER": "Arabic Receipt 1",
+        "ERROR": {
+          "REQUIRED": "Arabic Receipt required",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "ARABIC_RECEIPT_2": {
+        "LABEL": "Arabic Receipt 2",
+        "PLACEHOLDER": "Arabic Receipt 2",
+        "ERROR": {
+          "REQUIRED": "Arabic Receipt required",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "TRANSACTION_CURRENCY_EXPONENT": {
+        "LABEL": "Transaction currency exponent",
+        "PLACEHOLDER": "Transaction currency exponent",
+        "ERROR": {
+          "REQUIRED": "Transaction currency exponent required",
+          "ISNUMERIC": "Only numeric characters are allowed",
+          "ISCURRENCYEXPONENT": "Only numbers are allowed and length should be less than or equal to 2"
+        }
+      },
+      "CURRENCY_SYMBOL_ARABIC": {
+        "LABEL": "Currency Symbol Arabic (ALPHA)",
+        "PLACEHOLDER": "Currency Symbol Arabic (ALPHA)",
+        "ERROR": {
+          "REQUIRED": "Currency Symbol Arabic required",
+          "ISCURRENCYSYMBOL": "Currency symbol Arabic length should be less than or equal to 3"
+        }
+      },
+      "CURRENCY_SYMBOL_ENGLISH": {
+        "LABEL": "Currency Symbol English (ALPHA)",
+        "PLACEHOLDER": "Currency Symbol English (ALPHA)",
+        "ERROR": {
+          "REQUIRED": "Currency Symbol English required",
+          "ISCURRENCYSYMBOL": "Currency symbol English length should be less than or equal to 3"
+        }
+      },
+      "RETAILER_LANGUAGE_INDICATOR": {
+        "LABEL": "Retailer Language Indicator",
+        "PLACEHOLDER": "Retailer Language Indicator",
+        "ERROR": {
+          "REQUIRED": "Retailer Language Indicator required",
+          "ISNUMERIC": "Only numeric characters are allowed"
+        }
+      },
+      "RECONCILIATION_TIME": {
+        "LABEL": "Reconciliation Time",
+        "PLACEHOLDER": "Reconciliation Time",
+        "ERROR": {
+          "REQUIRED": "Reconciliation Time required",
+          "ISRECONCILIATIONTIME": "Only numbers are allowed and length should be less than or equal to 4"
+        }
+      },
+      "CARD_SCHEME_ID": {
+        "LABEL": "Card Scheme ID",
+        "PLACEHOLDER": "Card Scheme ID",
+        "ERROR": {
+          "REQUIRED": "Card Scheme ID required"
+        }
+      },
+      "CARD_RISK_MANAGEMENT": {
+        "LABEL": "Card Risk Management",
+        "PLACEHOLDER": "Card Risk Management",
+        "ERROR": {
+          "REQUIRED": "Card Risk Management required"
+        }
+      },
+      "ACQUIRING_BANK_TERMINAL_RISK_TEMPLATE": {
+        "LABEL": "Acquiring Bank/Terminal Risk Template",
+        "PLACEHOLDER": "Acquiring Bank/Terminal Risk Template",
+        "ERROR": {
+          "REQUIRED": "Acquiring Bank/Terminal Risk Template required"
+        }
+      }
+    },
+    "EDIT_STORE": {
+      "MERCHANT_CATEGORY": {
+        "LABEL": "Merchant Category",
+        "PLACEHOLDER": "Merchant Category",
+        "ERROR": {
+          "REQUIRED": "Merchant Category required"
+        }
+      },
+      "MERCHANT_NAME": {
+        "LABEL": "Merchant Name",
+        "PLACEHOLDER": "Merchant Name",
+        "ERROR": {
+          "REQUIRED": "Merchant Name required",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "STORE_ID": {
+        "LABEL": "Store Id",
+        "PLACEHOLDER": "Store Id",
+        "ERROR": {
+          "REQUIRED": "Store Id required"
+        }
+      },
+      "STORE_NAME": {
+        "LABEL": "Store Name",
+        "PLACEHOLDER": "Store Name",
+        "ERROR": {
+          "REQUIRED": "Store Name required",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "STORE_ADDRESS": {
+        "LABEL": "Store Address",
+        "PLACEHOLDER": "Store Address",
+        "ERROR": {
+          "REQUIRED": "Store Address required"
+        }
+      },
+      "STORE_MOBILE_NUMBER": {
+        "LABEL": "Store Mobile Number",
+        "PLACEHOLDER": "Store Mobile Number",
+        "ERROR": {
+          "REQUIRED": "Store Mobile Number required",
+          "ISPHONENUMBER": "Enter a valid contact number"
+        }
+      },
+      "STORE_EMAIL_ID": {
+        "LABEL": "Store Email ID",
+        "PLACEHOLDER": "Store Email ID",
+        "ERROR": {
+          "REQUIRED": "Store Email ID required",
+          "ISEMAIL": "Enter valid email id"
+        }
+      },
+      "COUNTRY": {
+        "LABEL": "Country",
+        "PLACEHOLDER": "Select Country",
+        "ERROR": {
+          "REQUIRED": "Country required"
+        }
+      },
+      "STATE": {
+        "LABEL": "State",
+        "PLACEHOLDER": "Select State",
+        "ERROR": {
+          "REQUIRED": "State required"
+        }
+      },
+      "REGION": {
+        "LABEL": "Region",
+        "PLACEHOLDER": "Select Region",
+        "ERROR": {
+          "REQUIRED": "Region required"
+        }
+      },
+      "CITY": {
+        "LABEL": "City Name",
+        "PLACEHOLDER": "Select City",
+        "ERROR": {
+          "REQUIRED": "City required"
+        }
+      },
+      "STORE_STATUS": {
+        "LABEL": "Store Status",
+        "PLACEHOLDER": "Select Store Status",
+        "ERROR": {
+          "REQUIRED": "Store Status required"
+        }
+      },
+      "ENGLISH_RECEIPT_1": {
+        "LABEL": "English Receipt 1",
+        "PLACEHOLDER": "English Receipt 1",
+        "ERROR": {
+          "REQUIRED": "English Receipt required"
+        }
+      },
+      "ENGLISH_RECEIPT_2": {
+        "LABEL": "English Receipt 2",
+        "PLACEHOLDER": "English Receipt 2",
+        "ERROR": {
+          "REQUIRED": "English Receipt required"
+        }
+      },
+      "ARABIC_RECEIPT_1": {
+        "LABEL": "Arabic Receipt 1",
+        "PLACEHOLDER": "Arabic Receipt 1",
+        "ERROR": {
+          "REQUIRED": "Arabic Receipt required",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "ARABIC_RECEIPT_2": {
+        "LABEL": "Arabic Receipt 2",
+        "PLACEHOLDER": "Arabic Receipt 2",
+        "ERROR": {
+          "REQUIRED": "Arabic Receipt required",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "TRANSACTION_CURRENCY_EXPONENT": {
+        "LABEL": "Transaction currency exponent",
+        "PLACEHOLDER": "Transaction currency exponent",
+        "ERROR": {
+          "REQUIRED": "Transaction currency exponent required",
+          "ISNUMERIC": "Only numeric characters are allowed",
+          "ISCURRENCYEXPONENT": "Only numbers are allowed and length should be less than or equal to 2"
+        }
+      },
+      "CURRENCY_SYMBOL_ARABIC": {
+        "LABEL": "Currency Symbol Arabic (ALPHA)",
+        "PLACEHOLDER": "Currency Symbol Arabic (ALPHA)",
+        "ERROR": {
+          "REQUIRED": "Currency Symbol Arabic required",
+          "ISCURRENCYSYMBOL": "Currency symbol Arabic length should be less than or equal to 3"
+        }
+      },
+      "CURRENCY_SYMBOL_ENGLISH": {
+        "LABEL": "Currency Symbol English (ALPHA)",
+        "PLACEHOLDER": "Currency Symbol English (ALPHA)",
+        "ERROR": {
+          "REQUIRED": "Currency Symbol English required",
+          "ISCURRENCYSYMBOL": "Currency symbol English length should be less than or equal to 3"
+        }
+      },
+      "RETAILER_LANGUAGE_INDICATOR": {
+        "LABEL": "Retailer Language Indicator",
+        "PLACEHOLDER": "Retailer Language Indicator",
+        "ERROR": {
+          "REQUIRED": "Retailer Language Indicator required",
+          "ISNUMERIC": "Only numeric characters are allowed"
+        }
+      },
+      "RECONCILIATION_TIME": {
+        "LABEL": "Reconciliation Time",
+        "PLACEHOLDER": "Reconciliation Time",
+        "ERROR": {
+          "REQUIRED": "Reconciliation Time required",
+          "ISRECONCILIATIONTIME": "Only numbers are allowed and length should be less than or equal to 4"
+        }
+      },
+      "CARD_SCHEME_ID": {
+        "LABEL": "Card Scheme ID",
+        "PLACEHOLDER": "Card Scheme ID",
+        "ERROR": {
+          "REQUIRED": "Card Scheme ID required"
+        }
+      },
+      "CARD_RISK_MANAGEMENT": {
+        "LABEL": "Card Risk Management",
+        "PLACEHOLDER": "Card Risk Management",
+        "ERROR": {
+          "REQUIRED": "Card Risk Management required"
+        }
+      },
+      "ACQUIRING_BANK_TERMINAL_RISK_TEMPLATE": {
+        "LABEL": "Acquiring Bank/Terminal Risk Template",
+        "PLACEHOLDER": "Acquiring Bank/Terminal Risk Template",
+        "ERROR": {
+          "REQUIRED": "Acquiring Bank/Terminal Risk Template required"
+        }
+      }
+    },
+    "ADD_DEPARTMENT": {
+      "MERCHANT_CATEGORY": {
+        "LABEL": "Merchant Category",
+        "PLACEHOLDER": "Merchant Category",
+        "ERROR": {
+          "REQUIRED": "Merchant Category required"
+        }
+      },
+      "MERCHANT_GROUP": {
+        "LABEL": "Merchant Group",
+        "PLACEHOLDER": "Merchant Group",
+        "ERROR": {
+          "REQUIRED": "Merchant Group required"
+        }
+      },
+      "MERCHANT_NAME": {
+        "LABEL": "Merchant Name",
+        "PLACEHOLDER": "Choose a merchant name",
+        "ERROR": {
+          "REQUIRED": "Merchant Name required"
+        }
+      },
+      "STORE_NAME": {
+        "LABEL": "Store Name",
+        "PLACEHOLDER": "Store Name",
+        "ERROR": {
+          "REQUIRED": "Store Name required"
+        }
+      },
+      "DEPARTMENT_ID": {
+        "LABEL": "Department ID",
+        "PLACEHOLDER": "Department ID",
+        "ERROR": {
+          "REQUIRED": "Department ID required"
+        }
+      },
+      "DEPARTMENT_NAME": {
+        "LABEL": "Department Name",
+        "PLACEHOLDER": "Department Name",
+        "ERROR": {
+          "REQUIRED": "Department Name required"
+        }
+      },
+      "DEPARTMENT_ADDRESS": {
+        "LABEL": "Department Address",
+        "PLACEHOLDER": "Department Address",
+        "ERROR": {
+          "REQUIRED": "Department Address required"
+        }
+      },
+      "DEPARTMENT_MOBILE_NUMBER": {
+        "LABEL": "Department Mobile Number",
+        "PLACEHOLDER": "Department Mobile Number",
+        "ERROR": {
+          "REQUIRED": "Department Mobile Number required",
+          "ISPHONENUMBER": "Enter a valid contact number"
+        }
+      },
+      "DEPARTMENT_EMAIL_ID": {
+        "LABEL": "Department Email ID",
+        "PLACEHOLDER": "Department Email ID",
+        "ERROR": {
+          "REQUIRED": "Department Email ID required",
+          "ISEMAIL": "Enter valid email id"
+        }
+      },
+      "COUNTRY": {
+        "LABEL": "Country",
+        "PLACEHOLDER": "Country",
+        "ERROR": {
+          "REQUIRED": "Country required"
+        }
+      },
+      "REGION": {
+        "LABEL": "Region",
+        "PLACEHOLDER": "Region",
+        "ERROR": {
+          "REQUIRED": "Region required"
+        }
+      },
+      "STATE": {
+        "LABEL": "State",
+        "PLACEHOLDER": "State",
+        "ERROR": {
+          "REQUIRED": "State required"
+        }
+      },
+      "CITY": {
+        "LABEL": "City",
+        "PLACEHOLDER": "City",
+        "ERROR": {
+          "REQUIRED": "City required"
+        }
+      },
+      "DEPARTMENT_STATUS": {
+        "LABEL": "Department Status",
+        "PLACEHOLDER": "Department Status",
+        "ERROR": {
+          "REQUIRED": "Department Status required"
+        }
+      },
+      "ENGLISH_RECEIPT_1": {
+        "LABEL": "English Receipt 1",
+        "PLACEHOLDER": "English Receipt 1",
+        "ERROR": {
+          "REQUIRED": "English Receipt required",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "ENGLISH_RECEIPT_2": {
+        "LABEL": "English Receipt 2",
+        "PLACEHOLDER": "English Receipt 2",
+        "ERROR": {
+          "REQUIRED": "English Receipt required",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "ARABIC_RECEIPT_1": {
+        "LABEL": "Arabic Receipt 1",
+        "PLACEHOLDER": "Arabic Receipt 1",
+        "ERROR": {
+          "REQUIRED": "Arabic Receipt required",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "ARABIC_RECEIPT_2": {
+        "LABEL": "Arabic Receipt 2",
+        "PLACEHOLDER": "Arabic Receipt 2",
+        "ERROR": {
+          "REQUIRED": "Arabic Receipt required",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "TRANSACTION_CURRENCY_EXPONENT": {
+        "LABEL": "Transaction currency exponent",
+        "PLACEHOLDER": "Transaction currency exponent",
+        "ERROR": {
+          "REQUIRED": "Transaction currency exponent required",
+          "ISNUMERIC": "Only numeric characters are allowed",
+          "ISCURRENCYEXPONENT": "Only numbers are allowed and length should be less than or equal to 2"
+        }
+      },
+      "CURRENCY_SYMBOL_ARABIC": {
+        "LABEL": "Currency Symbol Arabic (ALPHA)",
+        "PLACEHOLDER": "Currency Symbol Arabic (ALPHA)",
+        "ERROR": {
+          "REQUIRED": "Currency Symbol Arabic required",
+          "ISCURRENCYSYMBOL": "Currency symbol Arabic length should be less than or equal to 3"
+        }
+      },
+      "CURRENCY_SYMBOL_ENGLISH": {
+        "LABEL": "Currency Symbol English (ALPHA)",
+        "PLACEHOLDER": "Currency Symbol English (ALPHA)",
+        "ERROR": {
+          "REQUIRED": "Currency Symbol English required",
+          "ISCURRENCYSYMBOL": "Currency symbol English length should be less than or equal to 3"
+        }
+      },
+      "RETAILER_LANGUAGE_INDICATOR": {
+        "LABEL": "Retailer Language Indicator",
+        "PLACEHOLDER": "Retailer Language Indicator",
+        "ERROR": {
+          "REQUIRED": "Retailer Language Indicator required",
+          "ISNUMERIC": "Only numeric characters are allowed"
+        }
+      },
+      "TERMINAL_CURRENCY_CODE": {
+        "LABEL": "Terminal Currency Code",
+        "PLACEHOLDER": "Terminal Currency Code",
+        "ERROR": {
+          "REQUIRED": "Terminal Currency Code required",
+          "ISNUMERIC": "Only numeric characters are allowed"
+        }
+      },
+      "RECONCILIATION_TIME": {
+        "LABEL": "Reconciliation Time",
+        "PLACEHOLDER": "Reconciliation Time",
+        "ERROR": {
+          "REQUIRED": "Reconciliation Time required",
+          "ISRECONCILIATIONTIME": "Only numbers are allowed and length should be less than or equal to 4"
+        }
+      },
+      "EXCLUSIVE_FLAG": {
+        "LABEL": "Exclusive Flag",
+        "PLACEHOLDER": "Select Flag",
+        "ERROR": {
+          "REQUIRED": "Exclusive Flag required"
+        }
+      },
+      "CARD_SCHEME_ID": {
+        "LABEL": "Card Scheme ID",
+        "PLACEHOLDER": "Card Scheme ID",
+        "ERROR": {
+          "REQUIRED": "Card Scheme ID required"
+        }
+      },
+      "CARD_RISK_MANAGEMENT": {
+        "LABEL": "Card Risk Management",
+        "PLACEHOLDER": "Card Risk Management",
+        "ERROR": {
+          "REQUIRED": "Card Risk Management required"
+        }
+      },
+      "ACQUIRING_BANK_TERMINAL_RISK_TEMPLATE": {
+        "LABEL": "Acquiring Bank/Terminal Risk Template",
+        "PLACEHOLDER": "Acquiring Bank/Terminal Risk Template",
+        "ERROR": {
+          "REQUIRED": "Acquiring Bank/Terminal Risk Template required"
+        }
+      }
+    },
+    "EDIT_DEPARTMENT": {
+      "MERCHANT_CATEGORY": {
+        "LABEL": "Merchant Category",
+        "PLACEHOLDER": "Merchant Category",
+        "ERROR": {
+          "REQUIRED": "Merchant Category required"
+        }
+      },
+      "MERCHANT_GROUP": {
+        "LABEL": "Merchant Group",
+        "PLACEHOLDER": "Merchant Group",
+        "ERROR": {
+          "REQUIRED": "Merchant Group required"
+        }
+      },
+      "MERCHANT_NAME": {
+        "LABEL": "Merchant Name",
+        "PLACEHOLDER": "Choose a merchant name",
+        "ERROR": {
+          "REQUIRED": "Merchant Name required"
+        }
+      },
+      "STORE_NAME": {
+        "LABEL": "Store Name",
+        "PLACEHOLDER": "Store Name",
+        "ERROR": {
+          "REQUIRED": "Store Name required"
+        }
+      },
+      "DEPARTMENT_ID": {
+        "LABEL": "Department ID",
+        "PLACEHOLDER": "Department ID",
+        "ERROR": {
+          "REQUIRED": "Department ID required"
+        }
+      },
+      "DEPARTMENT_NAME": {
+        "LABEL": "Department Name",
+        "PLACEHOLDER": "Department Name",
+        "ERROR": {
+          "REQUIRED": "Department Name required"
+        }
+      },
+      "DEPARTMENT_ADDRESS": {
+        "LABEL": "Department Address",
+        "PLACEHOLDER": "Department Address",
+        "ERROR": {
+          "REQUIRED": "Department Address required"
+        }
+      },
+      "DEPARTMENT_MOBILE_NUMBER": {
+        "LABEL": "Department Mobile Number",
+        "PLACEHOLDER": "Department Mobile Number",
+        "ERROR": {
+          "REQUIRED": "Department Mobile Number required",
+          "ISPHONENUMBER": "Enter a valid contact number"
+        }
+      },
+      "DEPARTMENT_EMAIL_ID": {
+        "LABEL": "Department Email ID",
+        "PLACEHOLDER": "Department Email ID",
+        "ERROR": {
+          "REQUIRED": "Department Email ID required",
+          "ISEMAIL": "Enter valid email id"
+        }
+      },
+      "COUNTRY": {
+        "LABEL": "Country",
+        "PLACEHOLDER": "Country",
+        "ERROR": {
+          "REQUIRED": "Country required"
+        }
+      },
+      "REGION": {
+        "LABEL": "Region",
+        "PLACEHOLDER": "Region",
+        "ERROR": {
+          "REQUIRED": "Region required"
+        }
+      },
+      "STATE": {
+        "LABEL": "State",
+        "PLACEHOLDER": "State",
+        "ERROR": {
+          "REQUIRED": "State required"
+        }
+      },
+      "CITY": {
+        "LABEL": "City",
+        "PLACEHOLDER": "City",
+        "ERROR": {
+          "REQUIRED": "City required"
+        }
+      },
+      "DEPARTMENT_STATUS": {
+        "LABEL": "Department Status",
+        "PLACEHOLDER": "Department Status",
+        "ERROR": {
+          "REQUIRED": "Department Status required"
+        }
+      },
+      "ENGLISH_RECEIPT_1": {
+        "LABEL": "English Receipt 1",
+        "PLACEHOLDER": "English Receipt 1",
+        "ERROR": {
+          "REQUIRED": "English Receipt required",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "ENGLISH_RECEIPT_2": {
+        "LABEL": "English Receipt 2",
+        "PLACEHOLDER": "English Receipt 2",
+        "ERROR": {
+          "REQUIRED": "English Receipt required",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "ARABIC_RECEIPT_1": {
+        "LABEL": "Arabic Receipt 1",
+        "PLACEHOLDER": "Arabic Receipt 1",
+        "ERROR": {
+          "REQUIRED": "Arabic Receipt required",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "ARABIC_RECEIPT_2": {
+        "LABEL": "Arabic Receipt 2",
+        "PLACEHOLDER": "Arabic Receipt 2",
+        "ERROR": {
+          "REQUIRED": "Arabic Receipt required",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "TRANSACTION_CURRENCY_EXPONENT": {
+        "LABEL": "Transaction currency exponent",
+        "PLACEHOLDER": "Transaction currency exponent",
+        "ERROR": {
+          "REQUIRED": "Transaction currency exponent required",
+          "ISNUMERIC": "Only numeric characters are allowed",
+          "ISCURRENCYEXPONENT": "Only numbers are allowed and length should be less than or equal to 2"
+        }
+      },
+      "CURRENCY_SYMBOL_ARABIC": {
+        "LABEL": "Currency Symbol Arabic (ALPHA)",
+        "PLACEHOLDER": "Currency Symbol Arabic (ALPHA)",
+        "ERROR": {
+          "REQUIRED": "Currency Symbol Arabic required",
+          "ISCURRENCYSYMBOL": "Currency symbol Arabic length should be less than or equal to 3"
+        }
+      },
+      "CURRENCY_SYMBOL_ENGLISH": {
+        "LABEL": "Currency Symbol English (ALPHA)",
+        "PLACEHOLDER": "Currency Symbol English (ALPHA)",
+        "ERROR": {
+          "REQUIRED": "Currency Symbol English required",
+          "ISCURRENCYSYMBOL": "Currency symbol English length should be less than or equal to 3"
+        }
+      },
+      "RETAILER_LANGUAGE_INDICATOR": {
+        "LABEL": "Retailer Language Indicator",
+        "PLACEHOLDER": "Retailer Language Indicator",
+        "ERROR": {
+          "REQUIRED": "Retailer Language Indicator required",
+          "ISNUMERIC": "Only numeric characters are allowed"
+        }
+      },
+      "TERMINAL_CURRENCY_CODE": {
+        "LABEL": "Terminal Currency Code",
+        "PLACEHOLDER": "Terminal Currency Code",
+        "ERROR": {
+          "REQUIRED": "Terminal Currency Code required",
+          "ISNUMERIC": "Only numeric characters are allowed"
+        }
+      },
+      "RECONCILIATION_TIME": {
+        "LABEL": "Reconciliation Time",
+        "PLACEHOLDER": "Reconciliation Time",
+        "ERROR": {
+          "REQUIRED": "Reconciliation Time required",
+          "ISRECONCILIATIONTIME": "Only numbers are allowed and length should be less than or equal to 4"
+        }
+      },
+      "EXCLUSIVE_FLAG": {
+        "LABEL": "Exclusive Flag",
+        "PLACEHOLDER": "Select Flag",
+        "ERROR": {
+          "REQUIRED": "Exclusive Flag required"
+        }
+      },
+      "CARD_SCHEME_ID": {
+        "LABEL": "Card Scheme ID",
+        "PLACEHOLDER": "Card Scheme ID",
+        "ERROR": {
+          "REQUIRED": "Card Scheme ID required"
+        }
+      },
+      "CARD_RISK_MANAGEMENT": {
+        "LABEL": "Card Risk Management",
+        "PLACEHOLDER": "Card Risk Management",
+        "ERROR": {
+          "REQUIRED": "Card Risk Management required"
+        }
+      },
+      "ACQUIRING_BANK_TERMINAL_RISK_TEMPLATE": {
+        "LABEL": "Acquiring Bank/Terminal Risk Template",
+        "PLACEHOLDER": "Acquiring Bank/Terminal Risk Template",
+        "ERROR": {
+          "REQUIRED": "Acquiring Bank/Terminal Risk Template required"
+        }
+      }
+    },
+    "MERCHANT_GROUP": {
+      "ADD_MERCHANT_GROUP": {
+        "MERCHANT_GROUP_ID": {
+          "LABEL": "Merchant Group ID",
+          "PLACEHOLDER": "Merchant Group ID",
+          "ERROR": {
+            "REQUIRED": "Merchant Group ID required"
+          }
+        },
+        "MERCHANT_CATEGORY_ID": {
+          "LABEL": "Merchant Category ID",
+          "PLACEHOLDER": "Merchant Category ID",
+          "ERROR": {
+            "REQUIRED": "Merchant Category ID required"
+          }
+        },
+        "MERCHANT_GROUP_NAME": {
+          "LABEL": "Merchant Group Name",
+          "PLACEHOLDER": "Merchant Group Name",
+          "ERROR": {
+            "REQUIRED": "Merchant Group Name required"
+          }
+        },
+        "MERCHANT_GROUP_ADDRESS": {
+          "LABEL": "Merchant Group Address",
+          "PLACEHOLDER": "Merchant Group Address",
+          "ERROR": {
+            "REQUIRED": "Merchant Group Address required"
+          }
+        },
+        "MERCHANT_GROUP_CONTACT": {
+          "LABEL": "Merchant Group Contact",
+          "PLACEHOLDER": "Merchant Group Contact",
+          "ERROR": {
+            "REQUIRED": "Merchant Group Contact required",
+            "ISPHONENUMBER": "Enter a valid contact number"
+          }
+        },
+        "MERCHANT_GROUP_EMAIL": {
+          "LABEL": "Merchant Group Email",
+          "PLACEHOLDER": "Merchant Group Email",
+          "ERROR": {
+            "REQUIRED": "Merchant Group Email required",
+            "ISEMAIL": "Enter valid email id"
+          }
+        },
+        "MERCHANT_GROUP_COUNTRY_ID": {
+          "LABEL": "Merchant Group Country ID",
+          "PLACEHOLDER": "Merchant Group Country ID",
+          "ERROR": {
+            "REQUIRED": "Merchant Group Country ID required"
+          }
+        },
+        "MERCHANT_GROUP_REGION_ID": {
+          "LABEL": "Merchant Group Region ID",
+          "PLACEHOLDER": "Merchant Group Region ID",
+          "ERROR": {
+            "REQUIRED": "Merchant Group Region ID required"
+          }
+        },
+        "MERCHANT_GROUP_STATE_ID": {
+          "LABEL": "Merchant Group State ID",
+          "PLACEHOLDER": "Merchant Group State ID",
+          "ERROR": {
+            "REQUIRED": "Merchant Group State ID required"
+          }
+        },
+        "MERCHANT_GROUP_CITY_ID": {
+          "LABEL": "Merchant Group City ID",
+          "PLACEHOLDER": "Merchant Group City ID",
+          "ERROR": {
+            "REQUIRED": "Merchant Group City ID required"
+          }
+        },
+        "STATUS": {
+          "LABEL": "Status",
+          "PLACEHOLDER": "Status",
+          "ERROR": {
+            "REQUIRED": "Status required"
+          }
+        }
+      }
+    },
+    "MERCHANT_CATEGORY": {
+      "ADD_MERCHANTCATEGORY": {
+        "MERCHANT_CATEGORY_NAME": {
+          "LABEL": "Merchant Category Name",
+          "PLACEHOLDER": "Merchant Category Name",
+          "ERROR": {
+            "REQUIRED": "Merchant Category Name required",
+            "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+          }
+        },
+        "MERCHANT_CATEGORY_CODE": {
+          "LABEL": "Merchant Category Code",
+          "PLACEHOLDER": "Merchant Category Code",
+          "ERROR": {
+            "REQUIRED": "Merchant Category Code required",
+            "ISCATEGORYDESC": "Fault Category Desc length should be less than or equal to 3",
+            "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+          }
+        }
+      },
+      "EDIT_MERCHANTCATEGORY": {
+        "MERCHANT_CATEGORY_NAME": {
+          "LABEL": "Merchant Category Name",
+          "PLACEHOLDER": "Merchant Category Name",
+          "ERROR": {
+            "REQUIRED": "Merchant Category Name required",
+            "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+          }
+        },
+        "MERCHANT_CATEGORY_CODE": {
+          "LABEL": "Merchant Category Code",
+          "PLACEHOLDER": "Merchant Category Code",
+          "ERROR": {
+            "REQUIRED": "Merchant Category Code required",
+            "ISCATEGORYDESC": "Merchant Category Code length should be less than or equal to 3",
+            "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+          }
+        }
+      }
+    },
+    "TABLE": {
+      "TERMINAL_ID": "معرف المحطة الطرفية",
+      "TERMINAL_SNO": "الرقم التسلسلي النهائي",
+      "TERMINAL_MAKE": "جعل المحطة",
+      "TERMINAL_MODEL": "نموذج المحطة",
+      "FLM_VENDOR": "بائع FLM",
+      "MERCHANT_NAME": "اسم التاجر",
+      "AUTH_TYPE": "نوع التفويض",
+      "INSTALL_DATE": "تاريخ التثبيت",
+      "FLM_TAT": "FLM TAT",
+      "SLM_TAT": "SLM TAT",
+      "SYNC_INTERVAL": "الفاصل الزمني لمزامنة المفاتيح"
+    }
+  },
+  "ROLE": {
+    "ADD_ROLE": {
+      "ROLE_ID": {
+        "LABEL": "Role ID",
+        "PLACEHOLDER": " Enter Role ID",
+        "ERROR": {
+          "REQUIRED": "Role ID required"
+        }
+      },
+      "ROLE_NAME": {
+        "LABEL": "Role Name",
+        "PLACEHOLDER": "Enter Role Name",
+        "ERROR": {
+          "REQUIRED": "Role Name required"
+        }
+      },
+      "ROLE_DESCRIPTION": {
+        "LABEL": "Role Description",
+        "PLACEHOLDER": "Enter Role Description",
+        "ERROR": {
+          "REQUIRED": "Role Description required"
+        }
+      }
+    }
+  },
+  "ACQUIRING_BANK": {
+    "ADD_ACQUIRING_BANK": {
+      "BANK_NAME": {
+        "LABEL": "Bank Name",
+        "PLACEHOLDER": " Enter Bank Name",
+        "ERROR": {
+          "REQUIRED": "Bank Name required",
+          "ISBANKNAME": "Bank Name length should be less than or equal to 35"
+        }
+      },
+      "BANK_SHORT_NAME": {
+        "LABEL": "Bank Short Name",
+        "PLACEHOLDER": "Enter Bank Short Name",
+        "ERROR": {
+          "REQUIRED": "Bank Short Name required",
+          "ISBANKSHORTNAME": "Bank Short Name length should be less than or equal to 6"
+        }
+      },
+      "BANK_ID": {
+        "LABEL": "Bank ID",
+        "PLACEHOLDER": "Enter Bank ID",
+        "ERROR": {
+          "REQUIRED": "Bank ID required",
+          "ISBANKID": "Bank ID length should be less than or equal to 6"
+        }
+      },
+      "CONTACT_NAME": {
+        "LABEL": "Contact Name",
+        "PLACEHOLDER": "Enter Contact Name",
+        "ERROR": {
+          "REQUIRED": "Contact Name required",
+          "ISCONTACTNAME": "Contact Name length should be less than or equal to 35"
+        }
+      },
+      "CONTACT_MOBILE": {
+        "LABEL": "Contact Mobile",
+        "PLACEHOLDER": "Enter Contact Mobile",
+        "ERROR": {
+          "REQUIRED": "Contact Mobile required",
+          "ISPHONENUMBER": "Enter a valid Contact Mobile"
+        }
+      },
+      "CONTACT_MAIL": {
+        "LABEL": "Contact Mail",
+        "PLACEHOLDER": "Enter Contact Mail",
+        "ERROR": {
+          "REQUIRED": "Enter Contact Mail required",
+          "ISEMAIL": "Enter valid Mail"
+        }
+      },
+      "DATEFORMAT": {
+        "LABEL": "Date Format",
+        "PLACEHOLDER": "dd-MM-yyyy",
+        "ERROR": {
+          "REQUIRED": "Date Format required",
+          "ISVALIDDATE": "Enter the date in dd-MM-yyyy format"
+        }
+      },
+      "BANK_STATUS": {
+        "LABEL": "Bank Status",
+        "PLACEHOLDER": "Choose Status",
+        "ERROR": {
+          "REQUIRED": "Bank Status required"
+        }
+      }
+    }
+  },
+  "APP_DOWNLOAD": {
+    "ADD_APP": {
+      "APP_NAME": {
+        "LABEL": "Application Name",
+        "PLACEHOLDER": "Enter Application Name",
+        "ERROR": {
+          "REQUIRED": "Application Name Required",
+          "ISALPHANUMERIC": "Only alpha numeric and .-_ characters are allowed in application Name"
+        }
+      },
+      "HOST_ID": {
+        "LABEL": "Host Id",
+        "PLACEHOLDER": "Host Id",
+        "ERROR": {
+          "REQUIRED": "Choose application host"
+        }
+      },
+      "APP_VERSION": {
+        "LABEL": "Application version",
+        "PLACEHOLDER": "Enter application version",
+        "ERROR": {
+          "REQUIRED": "Application version required",
+          "ISVERSION": "Only numeric and . are allowed in application version"
+        }
+      },
+      "CONTENT_TYPE": {
+        "LABEL": "Content Type",
+        "PLACEHOLDER": "Choose device type",
+        "ERROR": {
+          "REQUIRED": "content type required"
+        }
+      },
+      "DEVICE_TYPE": {
+        "LABEL": "Device Type",
+        "PLACEHOLDER": "Choose device type",
+        "ERROR": {
+          "REQUIRED": "device type required"
+        }
+      },
+      "DEVICE_MODEL": {
+        "LABEL": "Device Model",
+        "PLACEHOLDER": "Choose device model",
+        "ERROR": {
+          "REQUIRED": "device model required"
+        }
+      },
+      "APP_STATUS": {
+        "LABEL": "Application Status",
+        "PLACEHOLDER": "Select status",
+        "ERROR": {
+          "REQUIRED": "Application status required"
+        }
+      },
+      "APP_PATH": {
+        "LABEL": "Application Path",
+        "PLACEHOLDER": "Enter Application Path",
+        "ERROR": {
+          "REQUIRED": "Application path is empty",
+          "ISPATH": "Only alpha numeric and /:_ characters are allowed in application Path"
+        }
+      },
+      "SERVICEP_ID": {
+        "LABEL": "Service Provider Id",
+        "PLACEHOLDER": "Select Service Provider Id",
+        "ERROR": {
+          "REQUIRED": "Service Provider Id required"
+        }
+      },
+      "THE_FILE": {
+        "LABEL": "Application File",
+        "PLACEHOLDER": "Give application file",
+        "ERROR": {
+          "REQUIRED": "application file required"
+        }
+      },
+      "REMARK": {
+        "LABEL": "Remark",
+        "PLACEHOLDER": "Enter application remarks",
+        "ERROR": {
+          "REQUIRED": "application remarks required",
+          "ISALPHANUMERIC": "Only alpha numeric characters are allowed in application remarks"
+        }
+      }
+    },
+    "EDIT_APP": {
+      "APP_NAME": {
+        "LABEL": "Application Name",
+        "PLACEHOLDER": "Enter Application Name",
+        "ERROR": {
+          "REQUIRED": "Application Name Required",
+          "ISALPHANUMERIC": "Only alpha numeric and .-_ characters are allowed in application Name"
+        }
+      },
+      "HOST_ID": {
+        "LABEL": "Host Id",
+        "PLACEHOLDER": "Host Id",
+        "ERROR": {
+          "REQUIRED": "Choose application host"
+        }
+      },
+      "APP_VERSION": {
+        "LABEL": "Application version",
+        "PLACEHOLDER": "Enter application version",
+        "ERROR": {
+          "REQUIRED": "Application version required",
+          "ISALPHANUMERIC": "Only alpha numeric and .-_ characters are allowed in application Name"
+        }
+      },
+      "CONTENT_TYPE": {
+        "LABEL": "Content Type",
+        "PLACEHOLDER": "Choose device type",
+        "ERROR": {
+          "REQUIRED": "content type required"
+        }
+      },
+      "DEVICE_TYPE": {
+        "LABEL": "Device Type",
+        "PLACEHOLDER": "Choose device type",
+        "ERROR": {
+          "REQUIRED": "device type required"
+        }
+      },
+      "DEVICE_MODEL": {
+        "LABEL": "Device Model",
+        "PLACEHOLDER": "Choose device model",
+        "ERROR": {
+          "REQUIRED": "device model required"
+        }
+      },
+      "APP_STATUS": {
+        "LABEL": "Application Status",
+        "PLACEHOLDER": "Select status",
+        "ERROR": {
+          "REQUIRED": "Application status required"
+        }
+      },
+      "APP_PATH": {
+        "LABEL": "Application Path",
+        "PLACEHOLDER": "Enter Application Path",
+        "ERROR": {
+          "REQUIRED": "Application path is empty",
+          "ISALPHANUMERIC": "Only alpha numeric and .: characters are allowed in application Path"
+        }
+      },
+      "SERVICEP_ID": {
+        "LABEL": "Service Provider Id",
+        "PLACEHOLDER": "Select Service Provider Id",
+        "ERROR": {
+          "REQUIRED": "Service Provider Id required"
+        }
+      },
+      "THE_FILE": {
+        "LABEL": "Application File",
+        "PLACEHOLDER": "Give application file",
+        "ERROR": {
+          "REQUIRED": "application file required"
+        }
+      },
+      "REMARK": {
+        "LABEL": "Remark",
+        "PLACEHOLDER": "Enter application remarks",
+        "ERROR": {
+          "REQUIRED": "application remarks required",
+          "ISALPHANUMERIC": "Only alpha numeric characters are allowed in application remarks"
+        }
+      }
+    }
+  },
+  "SUPPORTED_CARD_SCHEME": {
+    "ADD_CARD_SCHEME": {
+      "BANKFIID": {
+        "LABEL": "Bank FIID",
+        "PLACEHOLDER": "Bank FIID",
+        "ERROR": {
+          "REQUIRED": "Bank FIID required"
+        }
+      },
+      "CARD_SCH_SEQ_NO": {
+        "LABEL": "Card scheme Sequence Number",
+        "PLACEHOLDER": "Card scheme Sequence Number",
+        "ERROR": {
+          "REQUIRED": "Card scheme Sequence Number required"
+        }
+      },
+      "CARD_NAME": {
+        "LABEL": "Card Name",
+        "PLACEHOLDER": "Card Name",
+        "ERROR": {
+          "REQUIRED": "Card Name required",
+          "ISALPHASPACE": "Only alphabets with space characters are allowed",
+          "ISCARDNAME": "Card Name length should be less than or equal to 35"
+        }
+      },
+      "BIN_LOW": {
+        "LABEL": "Bin Low",
+        "PLACEHOLDER": "Bin Low",
+        "ERROR": {
+          "REQUIRED": "Bin Low required"
+        }
+      },
+      "BIN_HIGH": {
+        "LABEL": "Bin High",
+        "PLACEHOLDER": "Bin High",
+        "ERROR": {
+          "REQUIRED": "Bin High required"
+        }
+      },
+      "CARD_NUM_LENGTH": {
+        "LABEL": "Card Number Length",
+        "PLACEHOLDER": "Card Number Length",
+        "ERROR": {
+          "REQUIRED": "Card Number Length required"
+        }
+      },
+      "CARD_TYPE": {
+        "LABEL": "Card Type",
+        "PLACEHOLDER": "Card Type",
+        "ERROR": {
+          "REQUIRED": "Card Type required"
+        }
+      },
+      "CARD_SCHEME_ID": {
+        "LABEL": "Card Scheme ID",
+        "PLACEHOLDER": "Card Scheme ID",
+        "ERROR": {
+          "REQUIRED": "Card Scheme ID required"
+        }
+      },
+      "CARD_SCHEME_NAME_ENG": {
+        "LABEL": "Card Scheme Name English",
+        "PLACEHOLDER": "Card Scheme Name English",
+        "ERROR": {
+          "REQUIRED": "Card Scheme Name English required",
+          "ISCARDNAMEENGARB": "Card Scheme Name English should be less than or equal to 25"
+        }
+      },
+      "CARD_SCHEME_NAME_ARABIC": {
+        "LABEL": "Card Scheme Name Arabic",
+        "PLACEHOLDER": "Card Scheme Name Arabic",
+        "ERROR": {
+          "REQUIRED": "Card Scheme Name Arabic required",
+          "ISCARDNAMEENGARB": "Card Scheme Name Arabic length should be less than or equal to 25"
+        }
+      },
+      "DEFAULT_ACC": {
+        "LABEL": "Default Account",
+        "PLACEHOLDER": "Default Account",
+        "ERROR": {
+          "REQUIRED": "Default Account required"
+        }
+      },
+      "EMI": {
+        "LABEL": "EMI",
+        "PLACEHOLDER": "EMI",
+        "ERROR": {
+          "REQUIRED": "EMI required"
+        }
+      },
+      "P2P": {
+        "LABEL": "P2P",
+        "PLACEHOLDER": "P2P",
+        "ERROR": {
+          "REQUIRED": "P2P required"
+        }
+      },
+      "PAN_VALIDATION": {
+        "LABEL": "Pan Validation",
+        "PLACEHOLDER": "Pan Validation",
+        "ERROR": {
+          "REQUIRED": "Pan Validation required"
+        }
+      },
+      "SERVICE_CODE": {
+        "LABEL": "Supported Service Code",
+        "PLACEHOLDER": "Supported Service Code",
+        "ERROR": {
+          "ISNUMERIC": "Only numeric characters are allowed",
+          "ISSERVICECODE": "Card Scheme Name Arabic length should be less than or equal to 20"
+        }
+      },
+      "CARD_SCHEME_STATUS": {
+        "LABEL": "Card Scheme Status",
+        "PLACEHOLDER": "Card Scheme Status",
+        "ERROR": {
+          "REQUIRED": "Card Scheme Status required"
+        }
+      }
+    }
+  },
+  "TERMINAL_RISK": {
+    "ADD_TERMINAL_RISK": {
+      "BANKFIID": {
+        "LABEL": "Bank FIID",
+        "PLACEHOLDER": " Choose Bank FIID",
+        "ERROR": {
+          "REQUIRED": "Bank FIID required",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "BANK_ID": {
+        "LABEL": "Bank ID",
+        "PLACEHOLDER": "Choose Bank ID",
+        "ERROR": {
+          "REQUIRED": "Bank ID required",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "RISK_PROFILE_ID": {
+        "LABEL": "Terminal Risk Profile ID",
+        "PLACEHOLDER": "Enter Terminal Risk Profile ID",
+        "ERROR": {
+          "REQUIRED": "Terminal Risk Profile ID required"
+        }
+      },
+      "RISK_PROFILE_NAME": {
+        "LABEL": "Terminal Risk Profile Name",
+        "PLACEHOLDER": "Enter Terminal Risk Profile Name",
+        "ERROR": {
+          "REQUIRED": "Terminal Risk Profile Name required",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "TERMINAL_TYPE": {
+        "LABEL": "Terminal Type",
+        "PLACEHOLDER": "Choose Terminal Type",
+        "ERROR": {
+          "REQUIRED": "Terminal Type required"
+        }
+      },
+      "ONLINE_CAPABILITY": {
+        "LABEL": "Terminal Online Capability",
+        "PLACEHOLDER": "Choose Terminal Online Capability ",
+        "ERROR": {
+          "REQUIRED": "Terminal Online Capability required"
+        }
+      },
+      "MAGNETIC_STRIPE": {
+        "LABEL": "Enable Magnetic Stripe ",
+        "PLACEHOLDER": "Choose Enable Magnetic Stripe ",
+        "ERROR": {
+          "REQUIRED": "Enable Magnetic Stripe  required"
+        }
+      },
+      "ALLOW_FALLBACK": {
+        "LABEL": "Allow Fallback",
+        "PLACEHOLDER": "Choose Allow Fallback",
+        "ERROR": {
+          "REQUIRED": "Allow Fallback required"
+        }
+      },
+      "MANUAL_ENTRY": {
+        "LABEL": "Enable Manual Entry",
+        "PLACEHOLDER": "Choose Enable Manual Entry",
+        "ERROR": {
+          "REQUIRED": "Enable Manual Entry required"
+        }
+      },
+      "DEFAULT_TRANSACTION": {
+        "LABEL": "Default Transaction",
+        "PLACEHOLDER": "Choose Default Transaction",
+        "ERROR": {
+          "REQUIRED": "Default Transaction required"
+        }
+      },
+      "CARD_HOLD_VERIFICATION": {
+        "LABEL": "Card Holder Verification",
+        "PLACEHOLDER": "Choose Card Holder Verification",
+        "ERROR": {
+          "REQUIRED": "Card Holder Verification required"
+        }
+      },
+      "TRANSACTION_TYPE": {
+        "LABEL": "Transaction Type",
+        "PLACEHOLDER": "Choose Transaction Type",
+        "ERROR": {
+          "REQUIRED": "Transaction Type required"
+        }
+      },
+      "ENABLE_TRANSACTION": {
+        "LABEL": "Enable Transaction",
+        "PLACEHOLDER": "Choose Enable Transaction",
+        "ERROR": {
+          "REQUIRED": "Enable Transaction required"
+        }
+      },
+      "TERMINAL_MANUAL_ENTRY": {
+        "LABEL": "Enable Terminal Manual Entry",
+        "PLACEHOLDER": "Choose Enable Terminal Manual Entry",
+        "ERROR": {
+          "REQUIRED": "Enable Manual Entry required"
+        }
+      },
+      "CARD_PIN": {
+        "LABEL": "Enable Card PIN ",
+        "PLACEHOLDER": "Choose Enable Card PIN ",
+        "ERROR": {
+          "REQUIRED": "Enable Card PIN required"
+        }
+      },
+      "OFFLINE_PROCESSING": {
+        "LABEL": "Enable Offline Processing",
+        "PLACEHOLDER": "Choose Enable Offline Processing",
+        "ERROR": {
+          "REQUIRED": "Enable Offline Processing required"
+        }
+      },
+      "DCC": {
+        "LABEL": "Enable DCC ",
+        "PLACEHOLDER": "Choose Enable DCC ",
+        "ERROR": {
+          "REQUIRED": "Enable DCC required"
+        }
+      },
+      "PURCHASE_LIMIT": {
+        "LABEL": "Purchase Limit / Pre-Authorization Limit",
+        "PLACEHOLDER": "Enter Purchase Limit / Pre-Authorization Limit",
+        "ERROR": {
+          "REQUIRED": "Purchase Limit / Pre-Authorization Limit required",
+          "ISNUMERIC": "Only numeric characters are allowed"
+        }
+      },
+      "EMV": {
+        "LABEL": "Enable EMV ",
+        "PLACEHOLDER": "Choose Enable EMV ",
+        "ERROR": {
+          "REQUIRED": "Enable EMV required"
+        }
+      },
+      "TIP_LIMIT": {
+        "LABEL": "TIP Adjustment Limit (% of Purchase)",
+        "PLACEHOLDER": "Enter TIP Adjustment Limit (% of Purchase)",
+        "ERROR": {
+          "REQUIRED": "TIP Adjustment Limit (% of Purchase) required",
+          "ISNUMERIC": "Only numeric characters are allowed"
+        }
+      },
+      "CASH_ADV_LIMIT": {
+        "LABEL": "Cash Advance Limit",
+        "PLACEHOLDER": "Enter Cash Advance Limit",
+        "ERROR": {
+          "REQUIRED": "Cash Advance Limit required",
+          "ISNUMERIC": "Only numeric characters are allowed"
+        }
+      },
+      "CASH_BACK_LIMIT": {
+        "LABEL": "Cash Back Limit",
+        "PLACEHOLDER": " Enter Cash Back Limit",
+        "ERROR": {
+          "REQUIRED": "Cash Back Limit required",
+          "ISNUMERIC": "Only numeric characters are allowed"
+        }
+      },
+      "MOTO_LIMIT": {
+        "LABEL": "Moto Limit",
+        "PLACEHOLDER": "Enter Moto Limit",
+        "ERROR": {
+          "REQUIRED": "Moto Limit required",
+          "ISNUMERIC": "Only numeric characters are allowed"
+        }
+      },
+      "CASH_DEPO_LIMIT": {
+        "LABEL": "Cash Deposit Limit",
+        "PLACEHOLDER": "Enter Cash Deposit Limite",
+        "ERROR": {
+          "REQUIRED": "Cash Deposit Limit required",
+          "ISNUMERIC": "Only numeric characters are allowed"
+        }
+      },
+      "REFUND_LIMIT": {
+        "LABEL": "Refund Limit",
+        "PLACEHOLDER": "Enter Refund Limit",
+        "ERROR": {
+          "REQUIRED": "Refund Limit required",
+          "ISNUMERIC": "Only numeric characters are allowed"
+        }
+      },
+      "MAX_DEBIT": {
+        "LABEL": "Maximum DEBIT Transactions per calendar day ",
+        "PLACEHOLDER": "Enter Maximum DEBIT Transactions per calendar day ",
+        "ERROR": {
+          "REQUIRED": "Maximum DEBIT Transactions per calendar day  required",
+          "ISNUMERIC": "Only numeric characters are allowed"
+        }
+      },
+      "MAX_CREDIT": {
+        "LABEL": "Maximum CREDIT Transaction Per Calendar Day",
+        "PLACEHOLDER": "Enter Maximum CREDIT Transaction Per Calendar Day",
+        "ERROR": {
+          "REQUIRED": "Maximum CREDIT Transaction Per Calendar Day required",
+          "ISNUMERIC": "Only numeric characters are allowed"
+        }
+      },
+      "MAX_OFFLINE": {
+        "LABEL": "Maximum OFFLINE Transactions Counter",
+        "PLACEHOLDER": "Enter Maximum OFFLINE Transactions Counter",
+        "ERROR": {
+          "REQUIRED": "Maximum OFFLINE Transactions Counter required",
+          "ISNUMERIC": "Only numeric characters are allowed"
+        }
+      },
+      "MAX_REVERSAL": {
+        "LABEL": "Maximum REVERSAL transactions residing in the terminal",
+        "PLACEHOLDER": "Enter Maximum REVERSAL transactions residing in the terminal",
+        "ERROR": {
+          "REQUIRED": "Maximum REVERSAL transactions residing in the terminal required",
+          "ISNUMERIC": "Only numeric characters are allowed"
+        }
+      },
+      "MAGN_STRIPE": {
+        "LABEL": "Magnetic Stripe",
+        "PLACEHOLDER": "Enter Magnetic Stripe",
+        "ERROR": {
+          "REQUIRED": "Magnetic Stripe required",
+          "ISNUMERIC": "Only numeric characters are allowed"
+        }
+      },
+      "EMV_CONT_BASE": {
+        "LABEL": "EMV Contact base",
+        "PLACEHOLDER": "Enter EMV Contact base",
+        "ERROR": {
+          "REQUIRED": "EMV Contact base required",
+          "ISNUMERIC": "Only numeric characters are allowed"
+        }
+      },
+      "EMV_CONT_LESS": {
+        "LABEL": "EMV Contact less",
+        "PLACEHOLDER": "Enter EMV Contact less",
+        "ERROR": {
+          "REQUIRED": "EMV Contact less required",
+          "ISNUMERIC": "Only numeric characters are allowed"
+        }
+      },
+      "SETTLEMENT_TYPE": {
+        "LABEL": "Settlement Type",
+        "PLACEHOLDER": "Choose Settlement Type",
+        "ERROR": {
+          "REQUIRED": "Settlement Type required"
+        }
+      },
+      "SETTLEMENT_CUTOFF": {
+        "LABEL": "Settlement Cut-Off Time",
+        "PLACEHOLDER": "hh:mm",
+        "ERROR": {
+          "REQUIRED": "Settlement Cut-Off Time required",
+          "ISVALIDTIME": "Enter the time in hh:mm format"
+        }
+      },
+      "SETTLEMENT_INTERVAL": {
+        "LABEL": "Settlement Interval (In Hours)",
+        "PLACEHOLDER": "Enter Settlement Interval (In Hours)",
+        "ERROR": {
+          "REQUIRED": "Settlement Interval (In Hours) required",
+          "ISNUMERIC": "Only numeric characters are allowed"
+        }
+      },
+      "BUSSINESS_START_TIME": {
+        "LABEL": "Business Start Time (HH:MM: SS)",
+        "PLACEHOLDER": "hh:mm:ss",
+        "ERROR": {
+          "REQUIRED": "Business Start Time required",
+          "ISVALIDTIME": "Enter the time in hh:mm:ss format"
+        }
+      },
+      "BUSSINESS_END_TIME": {
+        "LABEL": "Business End Time (HH:MM: SS)",
+        "PLACEHOLDER": "hh:mm:ss",
+        "ERROR": {
+          "REQUIRED": "Business End Time required",
+          "ISVALIDTIME": "Enter the time in hh:mm:ss format"
+        }
+      },
+      "SUPER_PASS_OFFLINE": {
+        "LABEL": "Supervisor Password for Offline Transactions",
+        "PLACEHOLDER": "Choose Supervisor Password for Offline Transactions",
+        "ERROR": {
+          "REQUIRED": "Supervisor Password for Offline Transactions required"
+        }
+      },
+      "SUPER_PASS_MANUAL": {
+        "LABEL": "Supervisor Password for Manual Transactions",
+        "PLACEHOLDER": "Choose Supervisor Password for Manual Transactions",
+        "ERROR": {
+          "REQUIRED": "Supervisor Password for Manual Transactions required"
+        }
+      },
+      "SUPER_PASS_CASH": {
+        "LABEL": "Supervisor Password for Cash Transactions",
+        "PLACEHOLDER": "Choose Supervisor Password for Cash Transactions",
+        "ERROR": {
+          "REQUIRED": "Supervisor Password for Cash Transactions required"
+        }
+      },
+      "SUPER_PASS_MOTO": {
+        "LABEL": "Supervisor Password for MOTO TransactionsD",
+        "PLACEHOLDER": "Choose Supervisor Password for MOTO Transactions",
+        "ERROR": {
+          "REQUIRED": "Supervisor Password for MOTO Transactions required"
+        }
+      },
+      "SUPER_PASS_REFUND": {
+        "LABEL": "Supervisor Password for Refund Transactions",
+        "PLACEHOLDER": "Choose Supervisor Password for Refund Transactions",
+        "ERROR": {
+          "REQUIRED": "Supervisor Password for Refund Transactions required"
+        }
+      },
+      "SUPER_PASS_TIP": {
+        "LABEL": "Supervisor Password for TIP Transactions",
+        "PLACEHOLDER": "choose Supervisor Password for TIP Transactions",
+        "ERROR": {
+          "REQUIRED": "Supervisor Password for TIP Transactions required"
+        }
+      },
+      "SUPER_PASS_VOID": {
+        "LABEL": "Supervisor Password for Void Transactions",
+        "PLACEHOLDER": "Choose Supervisor Password for Void Transactions",
+        "ERROR": {
+          "REQUIRED": "Supervisor Password for Void Transactions required"
+        }
+      },
+      "INVOICE_NO_CAPTURE": {
+        "LABEL": "Prompt Invoice No. Capture",
+        "PLACEHOLDER": "Choose Prompt Invoice No. Capture",
+        "ERROR": {
+          "REQUIRED": "Prompt Invoice No. Capture required"
+        }
+      },
+      "DUAL_AMT_ENTRY": {
+        "LABEL": "Enable Dual Amount Entry",
+        "PLACEHOLDER": "Choose Enable Dual Amount Entry",
+        "ERROR": {
+          "REQUIRED": "Enable Dual Amount Entry required"
+        }
+      },
+      "CARD_PAN": {
+        "LABEL": "Display Card PAN",
+        "PLACEHOLDER": "Choose Display Card PAN",
+        "ERROR": {
+          "REQUIRED": "Display Card PAN required"
+        }
+      },
+      "TIP_PURCHASE": {
+        "LABEL": "Allow TIP with Purchase",
+        "PLACEHOLDER": "Choose Allow TIP with Purchase",
+        "ERROR": {
+          "REQUIRED": "Allow TIP with Purchase required"
+        }
+      },
+      "TRANS_RECEIPT": {
+        "LABEL": "Transaction Receipt Required",
+        "PLACEHOLDER": "Choose Transaction Receipt Required",
+        "ERROR": {
+          "REQUIRED": "Transaction Receipt Required required"
+        }
+      },
+      "TRANS_RECEIPT_TYPE": {
+        "LABEL": "Transaction Receipt Type",
+        "PLACEHOLDER": " Choose Transaction Receipt Type",
+        "ERROR": {
+          "REQUIRED": "Transaction Receipt Type required"
+        }
+      },
+      "TRANS_VELOCITY": {
+        "LABEL": "Transaction Velocity",
+        "PLACEHOLDER": "Enter Transaction Velocity",
+        "ERROR": {
+          "REQUIRED": "Transaction Velocity required",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "TRANS_INFLIGHT_TIME": {
+        "LABEL": "Transaction Maximum Inflight Time",
+        "PLACEHOLDER": "Enter Transaction Maximum Inflight Time",
+        "ERROR": {
+          "REQUIRED": "Transaction Maximum Inflight Time required",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "STATUS": {
+        "LABEL": "Status",
+        "PLACEHOLDER": "Choose Status",
+        "ERROR": {
+          "REQUIRED": "Status required"
+        }
+      }
+    }
+  },
+  "CARD_RISK": {
+    "ADD_CARD_RISK": {
+      "BANKFIID": {
+        "LABEL": "Bank FIID",
+        "PLACEHOLDER": " Enter Bank FIID",
+        "ERROR": {
+          "REQUIRED": "Bank FIID required",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "BANK_ID": {
+        "LABEL": "Bank ID",
+        "PLACEHOLDER": "Choose Bank ID",
+        "ERROR": {
+          "REQUIRED": "Bank ID required",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "CARD_SCHEME_ID": {
+        "LABEL": "Card Scheme Id",
+        "PLACEHOLDER": "Enter Card Scheme Id",
+        "ERROR": {
+          "REQUIRED": "Card Scheme Id required",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "CARD_RISK_PROFILE_NAME": {
+        "LABEL": "Card Risk Profile Name",
+        "PLACEHOLDER": "Enter Card Risk Profile Name",
+        "ERROR": {
+          "REQUIRED": "Card Risk Profile Name required",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "CARD_TYPE": {
+        "LABEL": "Card Type",
+        "PLACEHOLDER": "Enter Card Type",
+        "ERROR": {
+          "REQUIRED": "Card Type required",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "DCC": {
+        "LABEL": "DCC Flag",
+        "PLACEHOLDER": "Choose DCC Flag ",
+        "ERROR": {
+          "REQUIRED": "DCC Flag required",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "DCC_CURR_CODE": {
+        "LABEL": "DCC Currency Code",
+        "PLACEHOLDER": "Choose DCC Currency Code ",
+        "ERROR": {
+          "REQUIRED": "DCC Currency Code required",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "DCC_CURR_CONV_RATE": {
+        "LABEL": "DCC Currency Conversion Rate",
+        "PLACEHOLDER": "Enter DCC Currency Conversion Rate",
+        "ERROR": {
+          "REQUIRED": "DCC Currency Conversion Rate required",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "DCC_MARKUP_PERCENTAGE": {
+        "LABEL": "DCC Markup Percentage in %",
+        "PLACEHOLDER": "Enter DCC Markup Percentage in %",
+        "ERROR": {
+          "REQUIRED": "DCC Markup Percentage in % required",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "OFFLINE_FLOOR_LIM": {
+        "LABEL": "Offline Floor Limit",
+        "PLACEHOLDER": "Enter Offline Floor Limit",
+        "ERROR": {
+          "REQUIRED": "Offline Floor Limit required",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "MAGNETIC_FLOOR_LIM": {
+        "LABEL": "Magnetic Stripe Reader Floor limit",
+        "PLACEHOLDER": "Enter Magnetic Stripe Reader Floor limit",
+        "ERROR": {
+          "REQUIRED": "Magnetic Stripe Reader Floor limit required",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "ICC_FLOOR_LIMIT": {
+        "LABEL": "ICC Contact Reader Floor Limit",
+        "PLACEHOLDER": "Enter ICC Contact Reader Floor Limit",
+        "ERROR": {
+          "REQUIRED": "ICC Contact Reader Floor Limit required",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "CONTACTLESS_FLOOR_LIM": {
+        "LABEL": "Contactless Reader Floor Limit",
+        "PLACEHOLDER": "Enter Contactless Reader Floor Limit",
+        "ERROR": {
+          "REQUIRED": "Contactless Reader Floor Limit required",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "TRANSACTION_TYPE": {
+        "LABEL": "Transaction Type",
+        "PLACEHOLDER": "Choose Transaction Type",
+        "ERROR": {
+          "REQUIRED": "Transaction Type required",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "DCC_TRANSACTION_TYPES": {
+        "LABEL": "DCC Transaction Types",
+        "PLACEHOLDER": "Choose DCC Transaction Types",
+        "ERROR": {
+          "REQUIRED": "DCC Transaction Types required",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "MAX_TRANS_INDICATOR": {
+        "LABEL": "Maximum Transaction Indicator",
+        "PLACEHOLDER": "Enter Maximum Transaction Indicator",
+        "ERROR": {
+          "REQUIRED": "Maximum Transaction Indicator required",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "MAX_TRANS_AMT": {
+        "LABEL": "Maximum Transaction Amount",
+        "PLACEHOLDER": "Enter Maximum Transaction Amount",
+        "ERROR": {
+          "REQUIRED": "Maximum Transaction Amount required",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "CARD_PIN": {
+        "LABEL": "Enable Card PIN ",
+        "PLACEHOLDER": "Choose Enable Card PIN ",
+        "ERROR": {
+          "REQUIRED": "Enable Card PIN required",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "EN_TRANSACTION": {
+        "LABEL": "Enable Transaction",
+        "PLACEHOLDER": "Choose Enable Transaction",
+        "ERROR": {
+          "REQUIRED": "Enable Transaction required",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "EN_OFFLINE_PROCESSING": {
+        "LABEL": "Enable Offline Processing",
+        "PLACEHOLDER": "Choose Enable Offline Processing",
+        "ERROR": {
+          "REQUIRED": "Enable Offline Processing required",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "OFFLINE_DATA_TRANS_TYPE": {
+        "LABEL": "Offline Data Capture Transaction Type",
+        "PLACEHOLDER": " Enter Offline Data Capture Transaction Type",
+        "ERROR": {
+          "REQUIRED": "Offline Data Capture Transaction Type required",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "EN_MANUAL_ENTRY": {
+        "LABEL": "Enable Manual Entry",
+        "PLACEHOLDER": "Choose Enable Manual Entry",
+        "ERROR": {
+          "REQUIRED": "Enable Manual Entry required",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "EN_ACC_SELECTION": {
+        "LABEL": "Enable account selection",
+        "PLACEHOLDER": " Choose Enable account selection",
+        "ERROR": {
+          "REQUIRED": "Enable account selection required",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "VALIDATE_PAN": {
+        "LABEL": "Validate last four PAN digits",
+        "PLACEHOLDER": "Enter Validate last four PAN digits",
+        "ERROR": {
+          "REQUIRED": "Validate last four PAN digits required",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "VALIDATE_CARD_EX_DATE": {
+        "LABEL": "Validate card expiry date",
+        "PLACEHOLDER": "Enter Validate card expiry date",
+        "ERROR": {
+          "REQUIRED": "Validate card expiry date required",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "EX_DATE_MANUAL_TRANS": {
+        "LABEL": "Expiry date required for manual transaction ",
+        "PLACEHOLDER": "Enter Expiry date required for manual transaction ",
+        "ERROR": {
+          "REQUIRED": "Expiry date required for manual transaction required",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "EMI": {
+        "LABEL": "EMI (Budget period) ranges",
+        "PLACEHOLDER": "Enter EMI (Budget period) ranges",
+        "ERROR": {
+          "REQUIRED": "EMI (Budget period) ranges required",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "STATUS": {
+        "LABEL": "Status",
+        "PLACEHOLDER": "Choose Status",
+        "ERROR": {
+          "REQUIRED": "Status required"
+        }
+      },
+      "SEQUENCE_NO": {
+        "LABEL": "Sequence Number",
+        "PLACEHOLDER": "Enter Sequence Number",
+        "ERROR": {
+          "REQUIRED": "Sequence Number required"
+        }
+      }
+    }
+  },
+  "BIN_CONFIGURATION": {
+    "ADD_BIN_CONFIGURATION": {
+      "ACQUIRER_NAME": {
+        "LABEL": "Acquirer Name",
+        "PLACEHOLDER": " Enter Bank FIID",
+        "ERROR": {
+          "REQUIRED": "Bank FIID required",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "BIN_LOW": {
+        "LABEL": "BIN Low",
+        "PLACEHOLDER": "Enter BIN Low",
+        "ERROR": {
+          "REQUIRED": "Bank ID required",
+          "ISNUMERIC": "Only numeric characters are allowed"
+        }
+      },
+      "BIN_HIGH": {
+        "LABEL": "BIN High",
+        "PLACEHOLDER": "Enter BIN High",
+        "ERROR": {
+          "REQUIRED": "BIN High required",
+          "ISNUMERIC": "Only numeric characters are allowed"
+        }
+      },
+      "BIN_TYPE": {
+        "LABEL": "BIN Type",
+        "PLACEHOLDER": "Enter BIN Type",
+        "ERROR": {
+          "REQUIRED": "BIN Type required",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "MSG_TYPE": {
+        "LABEL": "Message Type",
+        "PLACEHOLDER": "Choose Message Type",
+        "ERROR": {
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "BIN_STATUS": {
+        "LABEL": "BIN Status",
+        "PLACEHOLDER": "Choose BIN Status",
+        "ERROR": {
+          "REQUIRED": "BIN Status required",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "SEQUENCE_NO": {
+        "LABEL": "Sequence Number",
+        "PLACEHOLDER": "Sequence Number"
+      }
+    }
+  },
+  "EXTERNAL_CONNECTION": {
+    "ADD_EXTERNAL_CONNECTION": {
+      "EXTERNAL_CONNECTION_NAME": {
+        "LABEL": "External Connection Name",
+        "PLACEHOLDER": " Enter External Connection Name",
+        "ERROR": {
+          "REQUIRED": "External Connection Name required",
+          "ISCONNECTIONNAME": "External Connection Name length should be less than or equal to 3",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "EXTERNAL_CONNECTION_TYPE": {
+        "LABEL": "External Connection Type",
+        "PLACEHOLDER": "Choose Type",
+        "ERROR": {
+          "REQUIRED": "External Connection Type required"
+        }
+      },
+      "EXTERNAL_CONNECTION_PRIORITY": {
+        "LABEL": "External Connection Priority",
+        "PLACEHOLDER": "Choose Priority",
+        "ERROR": {
+          "REQUIRED": "External Connection Priority required"
+        }
+      },
+      "EXTERNAL_CONNECTION_PHONE_NUMBER": {
+        "LABEL": "External Connection Phone Number",
+        "PLACEHOLDER": "Enter Phone Number",
+        "ERROR": {
+          "REQUIRED": "External Connection Phone Number required"
+        }
+      },
+      "EXTERNAL_CONNECTION_ATTEMPT": {
+        "LABEL": "External Connection Attempt",
+        "PLACEHOLDER": "Enter External Connection Attempt",
+        "ERROR": {
+          "REQUIRED": "External Connection Attempt required",
+          "ISCONNECTIONATTEMPT": "External Connection Attempt length should be equal to 1"
+        }
+      },
+      "EXTERNAL_CONNECTION_TIME": {
+        "LABEL": "External Connection Time",
+        "PLACEHOLDER": "Enter External Connection Time",
+        "ERROR": {
+          "REQUIRED": "External Connection Time required",
+          "ISCONNECTIONTIME": "External Connect Time length should not exceed 2"
+        }
+      },
+      "EXTERNAL_CONNECTION_BAUDRATE": {
+        "LABEL": "External Connection Baud Rate",
+        "PLACEHOLDER": "Enter External Connection Baud Rate",
+        "ERROR": {
+          "REQUIRED": "External Connection Baud Rate required",
+          "ISBAUDRATE": "External Connection Baud Rate length should be equal to 1",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "EXTERNAL_CONNECTION_PARITY_BIT": {
+        "LABEL": "External Connection Parity Bit",
+        "PLACEHOLDER": "Enter External Connection Parity Bit",
+        "ERROR": {
+          "REQUIRED": "External Connection Parity Bit required",
+          "ISPARITYBIT": "External Connection Parity Bit length should be equal to 1",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "EXTERNAL_CONNECTION_DATA_BIT": {
+        "LABEL": "External Connection Data Bit",
+        "PLACEHOLDER": "Enter External Connection Data Bit",
+        "ERROR": {
+          "REQUIRED": "External Connection Data Bit required",
+          "ISDATABIT": "External Connection Data Bit length should be equal to 1",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "EXTERNAL_CONNECTION_STOP_BIT": {
+        "LABEL": "External Connection Stop Bit",
+        "PLACEHOLDER": "Enter External Connection Stop Bit",
+        "ERROR": {
+          "REQUIRED": "External Connection Stop Bit required",
+          "ISSTOPBIT": "External Connection Stop Bit length should be equal to 1",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "EXTERNAL_CONNECTION_NETWORK_IP": {
+        "LABEL": "External Connection Network Ip",
+        "PLACEHOLDER": "Enter External Connection Network Ip",
+        "ERROR": {
+          "REQUIRED": "External Connection Network Ip required",
+          "ISNETWORKIP": "External Connection Network Supportlength should be less than or equal to 15"
+        }
+      },
+      "EXTERNAL_CONNECTION_NETWORK_SUPPORT": {
+        "LABEL": "External Connection Network Support",
+        "PLACEHOLDER": "Enter External Connection Network Support",
+        "ERROR": {
+          "REQUIRED": "External Connection Network Support required",
+          "ISNETWORKSUPPORT": "External Connection Network Support length should be equal to 5",
+          "ISNUMERIC": "Only numeric characters are allowed"
+        }
+      },
+      "EXTERNAL_CONNECTION_CAR": {
+        "LABEL": "External Connection Counter Access Retries",
+        "PLACEHOLDER": "Enter External Connection Counter Access Retries",
+        "ERROR": {
+          "REQUIRED": "External Connection Counter Access Retries required",
+          "ISCAR": "External Connection Counter Access Retries length should be equal to 1",
+          "ISNUMERIC": "Only numeric characters are allowed"
+        }
+      },
+      "EXTERNAL_CONNECTION_APN": {
+        "LABEL": "External Connection Access Point Name",
+        "PLACEHOLDER": "Enter External Connection Access Point Name",
+        "ERROR": {
+          "REQUIRED": "External Connection Access Point Name required",
+          "ISAPN": "External Connection Access Point Name length should not exceed 3",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "EXTERNAL_CONNECTION_RESP_TIMEOUT": {
+        "LABEL": "External Connection Response Time Out",
+        "PLACEHOLDER": "Enter External Connection Response Time Out",
+        "ERROR": {
+          "REQUIRED": "External Connection Response Time Out required",
+          "ISRESPTIMEOUT": "External Connection Timeout length should not exceed 2",
+          "ISNUMERIC": "Only numeric characters are allowed"
+        }
+      },
+      "EXTERNAL_CONNECTION_CERTIFICATE": {
+        "LABEL": "External Connection Certificate",
+        "PLACEHOLDER": "Enter External Connection Certificate",
+        "ERROR": {
+          "REQUIRED": "External Connection Certificate required",
+          "ISCERTIFICATE": "External Connection Certificate length should be less than or equal to 16",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      }
+    },
+    "EDIT_EXTERNAL_CONNECTION": {
+      "EXTERNAL_CONNECTION_ID": {
+        "LABEL": "External Connection ID",
+        "PLACEHOLDER": " Enter External Connection Id",
+        "ERROR": {
+          "REQUIRED": "External Connection Id required",
+          "ISCONNECTIONID": "External Connection Id length should be less than or equal to 16",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "EXTERNAL_CONNECTION_NAME": {
+        "LABEL": "External Connection Name",
+        "PLACEHOLDER": " Enter External Connection Name",
+        "ERROR": {
+          "REQUIRED": "External Connection Name required",
+          "ISCONNECTIONNAME": "External Connection Name length should be less than or equal to 3",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "EXTERNAL_CONNECTION_TYPE": {
+        "LABEL": "External Connection Type",
+        "PLACEHOLDER": "Choose Type",
+        "ERROR": {
+          "REQUIRED": "External Connection Type required"
+        }
+      },
+      "EXTERNAL_CONNECTION_PRIORITY": {
+        "LABEL": "External Connection Priority",
+        "PLACEHOLDER": "Choose Priority",
+        "ERROR": {
+          "REQUIRED": "External Connection Priority required"
+        }
+      },
+      "EXTERNAL_CONNECTION_PHONE_NUMBER": {
+        "LABEL": "External Connection Phone Number",
+        "PLACEHOLDER": "Enter Phone Number",
+        "ERROR": {
+          "REQUIRED": "External Connection Phone Number required"
+        }
+      },
+      "EXTERNAL_CONNECTION_ATTEMPT": {
+        "LABEL": "External Connection Attempt",
+        "PLACEHOLDER": "Enter External Connection Attempt",
+        "ERROR": {
+          "REQUIRED": "External Connection Attempt required",
+          "ISCONNECTIONATTEMPT": "External Connection Attempt length should be equal to 1"
+        }
+      },
+      "EXTERNAL_CONNECTION_TIME": {
+        "LABEL": "External Connection Time",
+        "PLACEHOLDER": "Enter External Connection Time",
+        "ERROR": {
+          "REQUIRED": "External Connection Time required",
+          "ISCONNECTIONTIME": "External Connect Time length should not exceed 2"
+        }
+      },
+      "EXTERNAL_CONNECTION_BAUDRATE": {
+        "LABEL": "External Connection Baud Rate",
+        "PLACEHOLDER": "Enter External Connection Baud Rate",
+        "ERROR": {
+          "REQUIRED": "External Connection Baud Rate required",
+          "ISBAUDRATE": "External Connection Baud Rate length should be equal to 1",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "EXTERNAL_CONNECTION_PARITY_BIT": {
+        "LABEL": "External Connection Parity Bit",
+        "PLACEHOLDER": "Enter External Connection Parity Bit",
+        "ERROR": {
+          "REQUIRED": "External Connection Parity Bit required",
+          "ISPARITYBIT": "External Connection Parity Bit length should be equal to 1",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "EXTERNAL_CONNECTION_DATA_BIT": {
+        "LABEL": "External Connection Data Bit",
+        "PLACEHOLDER": "Enter External Connection Data Bit",
+        "ERROR": {
+          "REQUIRED": "External Connection Data Bit required",
+          "ISDATABIT": "External Connection Data Bit length should be equal to 1",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "EXTERNAL_CONNECTION_STOP_BIT": {
+        "LABEL": "External Connection Stop Bit",
+        "PLACEHOLDER": "Enter External Connection Stop Bit",
+        "ERROR": {
+          "REQUIRED": "External Connection Stop Bit required",
+          "ISSTOPBIT": "External Connection Stop Bit length should be equal to 1",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "EXTERNAL_CONNECTION_NETWORK_IP": {
+        "LABEL": "External Connection Network Ip",
+        "PLACEHOLDER": "Enter External Connection Network Ip",
+        "ERROR": {
+          "REQUIRED": "External Connection Network Ip required",
+          "ISNETWORKIP": "External Connection Network Supportlength should be less than or equal to 15"
+        }
+      },
+      "EXTERNAL_CONNECTION_NETWORK_SUPPORT": {
+        "LABEL": "External Connection Network Support",
+        "PLACEHOLDER": "Enter External Connection Network Support",
+        "ERROR": {
+          "REQUIRED": "External Connection Network Support required",
+          "ISNETWORKSUPPORT": "External Connection Network Support length should be equal to 5",
+          "ISNUMERIC": "Only numeric characters are allowed"
+        }
+      },
+      "EXTERNAL_CONNECTION_CAR": {
+        "LABEL": "External Connection Counter Access Retries",
+        "PLACEHOLDER": "Enter External Connection Counter Access Retries",
+        "ERROR": {
+          "REQUIRED": "External Connection Counter Access Retries required",
+          "ISCAR": "External Connection Counter Access Retries length should be equal to 1",
+          "ISNUMERIC": "Only numeric characters are allowed"
+        }
+      },
+      "EXTERNAL_CONNECTION_APN": {
+        "LABEL": "External Connection Access Point Name",
+        "PLACEHOLDER": "Enter External Connection Access Point Name",
+        "ERROR": {
+          "REQUIRED": "External Connection Access Point Name required",
+          "ISAPN": "External Connection Access Point Name length should not exceed 3",
+          "ISALPHANUMERIC": "Only alphanumeric characters are allowed"
+        }
+      },
+      "EXTERNAL_CONNECTION_RESP_TIMEOUT": {
+        "LABEL": "External Connection Response Time Out",
+        "PLACEHOLDER": "Enter External Connection Response Time Out",
+        "ERROR": {
+          "REQUIRED": "External Connection Response Time Out required",
+          "ISRESPTIMEOUT": "External Connection Timeout length should not exceed 2",
+          "ISNUMERIC": "Only numeric characters are allowed"
+        }
+      },
+      "EXTERNAL_CONNECTION_CERTIFICATE": {
+        "LABEL": "External Connection Certificate",
+        "PLACEHOLDER": "Enter External Connection Certificate",
+        "ERROR": {
+          "REQUIRED": "External Connection Certificate required",
+          "ISCERTIFICATE": "External Connection Certificate length should be less than or equal to 16"
+        }
+      }
+    }
+  },
+  "RESPONSE_CODE": {
+    "1001": {
+      "MESSAGE": "The Old password is incorrect.",
+      "TITLE": "Old password is incorrect"
+    },
+    "1002": {
+      "MESSAGE": "Password changed successfully..........",
+      "TITLE": "Password change success"
+    },
+    "TMSTERM958": {
+      "MESSAGE": "Terminal Details Added Successfully",
+      "TITLE": "Terminal added success"
+    },
+    "TMSTERM989": {
+      "MESSAGE": "Please enter Installation date in dd",
+      "TITLE": "Invalid Installation data"
+    },
+    "0": {
+      "MESSAGE": "The request cannot be processed because of a connection error.",
+      "TITLE": "Error in connection"
+    },
+    "400": {
+      "MESSAGE": "The server was unable to process the request because record allready exist.",
+      "TITLE": "Bad Request"
+    },
+    "401": {
+      "MESSAGE": "Access has been denied because of invalid credentials.",
+      "TITLE": "Unauthorized"
+    },
+    "403": {
+      "MESSAGE": "You do not have the permission to perform this request.",
+      "TITLE": "Forbidden"
+    },
+    "404": {
+      "MESSAGE": "The requested resource was not found.",
+      "TITLE": "Not Found"
+    },
+    "405": {
+      "MESSAGE": "The request method is not supported for the requested resource.",
+      "TITLE": "Access Denied"
+    },
+    "408": {
+      "MESSAGE": "There was a server timeout. Please try again.",
+      "TITLE": "Request time out"
+    },
+    "409": {
+      "MESSAGE": "The request cannot be processed because of a conflict.",
+      "TITLE": "Conflict"
+    },
+    "422": {
+      "MESSAGE": "The server cannot handle the request because of a semantic error.",
+      "TITLE": "Unprocessable Entity"
+    },
+    "500": {
+      "MESSAGE": "A server error prevented the processing of your request.",
+      "TITLE": "Internal Server Error"
+    },
+    "502": {
+      "MESSAGE": "The server received an invalid response while trying to process the request.",
+      "TITLE": "Bad Gateway"
+    },
+    "503": {
+      "MESSAGE": "The server is unable to handle the request because of temporary unavailability or scheduled maintenance. Please try again later.",
+      "TITLE": "Service Unavailable"
+    },
+    "SUCCESS_DEFAULT": {
+      "MESSAGE": "The request has been completed successfully.",
+      "TITLE": "Success"
+    },
+    "ERROR_DEFAULT": {
+      "MESSAGE": "The request cannot be completed because of an error.",
+      "TITLE": "Error"
+    },
+    "UNKNOWN": {
+      "MESSAGE": "An unknown error has occurred. Please try again.",
+      "TITLE": "Unknown error"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{"userType" : 
+    [
+    {
+        "userTypeId": "1",
+        "userTypeName": "Service Provider"
+    },
+    {
+        "userTypeId": "2",
+        "userTypeName": "Acquiring Bank"
+    }
+    ]
+}

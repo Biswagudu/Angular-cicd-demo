@@ -1,0 +1,46 @@
+{
+    "header": {
+        "transactionHeaderResponse": {
+            "txnNo": "9830098300344444",
+            "tType": " TMS00003"
+        },
+        "hashedResponse": "",
+        "userId": "TMSUSER1"
+    },
+    "body": {
+        "deviceTypeResponse": {
+            "responseCode": "000",
+            "responseMessage": "Success",
+            "deviceTypeFormList": [
+                {
+                    "deviceTypeId": "83",
+                    "deviceTypeDesc": "Venrs"
+                },
+                {
+                    "deviceTypeId": "79",
+                    "deviceTypeDesc": "added data"
+                },
+                {
+                    "deviceTypeId": "35",
+                    "deviceTypeDesc": "validated data added"
+                },
+                {
+                    "deviceTypeId": "80",
+                    "deviceTypeDesc": "ttttt"
+                },
+                {
+                    "deviceTypeId": "19",
+                    "deviceTypeDesc": "added"
+                },
+                {
+                    "deviceTypeId": "84",
+                    "deviceTypeDesc": "Ven"
+                },
+                {
+                    "deviceTypeId": "95",
+                    "deviceTypeDesc": "addedsuccessfully"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "header": {
+        "transactionHeaderResponse": {
+            "txnNo": "9830098300344444",
+            "tType": " TMS00007"
+        },
+        "hashedResponse": ""
+    },
+    "body": {
+        "deviceModelResponse": {
+            "responseCode": "000",
+            "deviceModelList": [
+                {
+                    "deviceModelName": "hello",
+                    "deviceModelId": "007196305444",
+                    "deviceTypeId": "95"
+                },
+                {
+                    "deviceModelName": "model",
+                    "deviceModelId": "012824188781",
+                    "deviceTypeId": "95"
+                },
+                {
+                    "deviceModelName": "testing",
+                    "deviceModelId": "012827811019",
+                    "deviceTypeId": "95"
+                },
+                {
+                    "deviceModelName": "modelnew",
+                    "deviceModelId": "015662143448",
+                    "deviceTypeId": "95"
+                },
+                {
+                    "deviceModelName": "test",
+                    "deviceModelId": "023277301453",
+                    "deviceTypeId": "95"
+                }
+            ]
+        }
+    }
+}

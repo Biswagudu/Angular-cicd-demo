@@ -1,0 +1,130 @@
+{
+    "header": {
+        "transactionHeaderResponse": {
+            "txnNo": "9830098300344444",
+            "tType": " TMS00003"
+        },
+        "hashedResponse": ""
+    },
+    "body": {
+        "roleResponse": {
+            "responseCode": "000",
+            "responseMessage": "Success",
+            "numberOfRecords": 0,
+            "status": 0,
+            "processStatus": false,
+            "obj": {
+                "myHashMap": {}
+            },
+            "map": [
+                {
+                    "id": 1,
+                    "operation": "Add"
+                },
+                {
+                    "id": 2,
+                    "operation": "Delete"
+                },
+                {
+                    "id": 3,
+                    "operation": "View"
+                },
+                {
+                    "id": 4,
+                    "operation": "Edit"
+                },
+                {
+                    "id": 5,
+                    "operation": "Update"
+                },
+                {
+                    "id": 6,
+                    "operation": "Config"
+                },
+                {
+                    "id": 7,
+                    "operation": "Privleges"
+                },
+                {
+                    "id": 9,
+                    "operation": "Save"
+                },
+                {
+                    "id": 10,
+                    "operation": "Reset"
+                },
+                {
+                    "id": 12,
+                    "operation": "EnableLink"
+                },
+                {
+                    "id": 15,
+                    "operation": "Upload"
+                },
+                {
+                    "id": 16,
+                    "operation": "Download"
+                },
+                {
+                    "id": 17,
+                    "operation": "CheckerList"
+                },
+                {
+                    "id": 21,
+                    "operation": "Approve"
+                },
+                {
+                    "id": 22,
+                    "operation": "Reject"
+                },
+                {
+                    "id": 23,
+                    "operation": "Reject"
+                },
+                {
+                    "id": 24,
+                    "operation": "Previous Week BillFetch Transaction Count"
+                },
+                {
+                    "id": 50,
+                    "operation": "Todays Merchant wise transaction amount(AED)"
+                },
+                {
+                    "id": 51,
+                    "operation": "Todays Merchant wise transaction count"
+                },
+                {
+                    "id": 52,
+                    "operation": "Yesterdays Merchant wise transaction count"
+                },
+                {
+                    "id": 53,
+                    "operation": "Delivery channel wise count"
+                },
+                {
+                    "id": 54,
+                    "operation": "Todays Transaction Count per hour"
+                },
+                {
+                    "id": 55,
+                    "operation": "Transaction summary"
+                },
+                {
+                    "id": 56,
+                    "operation": "ON US Biller transaction status"
+                },
+                {
+                    "id": 57,
+                    "operation": "Recon Transaction summary"
+                },
+                {
+                    "id": 58,
+                    "operation": "Recon Delivery Channel wise summary"
+                }
+                
+            ],
+            "roleId": 0,
+            "operationStatus": 0
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+  "baseDomain": "localhost",
+  "basePath": "",
+  "podDomain": "",
+  "loginHostUrl": "http://localhost:4200",
+  "tmsAPIUrl": "http://10.44.11.56:8097/TMSS",
+  "externalLogoutUrl":"https://10.2.247.2:444/pkmslogout",
+  "externalForgotPasswordUrl": "https://10.2.247.2:444/mga/sps/authsvc?PolicyId=urn:ibm:security:authentication:asf:mobilePasswordReset",
+  "isExternalPortal": false,
+  "autoRefreshTime": "50000",
+  "appVersion": "03092021",
+  "loginKey": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAz+WUAc/U4MlGgX22M6VgwoHfzJLpqSGTxvBG5f9l97YSwqBIH+TJ7xPUTo1WSVAzcGJ+ZDu0Q6R7FMH2Ic22oiQDFF5LZACgw9gNs8+qP7WAR3VsvOUz3v8W7FimB02TcncVCRGO65uDHTyfTDKPEovRnBz/sXM2j3I51m3sUgJ8hBmlEdtgC8JhHPTo6+dlgjbs5he4JIW3538/Pdtxu0V52nZIB2PNMR0l5c17K0Hn015HtyJb17tonwmmfIwawOGjfCEsD6vEjVp8LS/Yp6KfeaEzPX+V8sOidnK9yy7xQNa4a6ZH/rIOGyYGvfckcbhfdcIV/tZHZhBUGQqnIwIDAQAB\n-----END PUBLIC KEY-----\n",
+  "appRoles": [
+  ],
+  "applicationConfigFileUploadTypes": ["crt","out","pem","xml","p7s"],
+  "rowCount": 100,
+  "countryId": "682",
+  "countryName": "SAUDI ARABIA"
+}
+ 
+ 

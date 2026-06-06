@@ -1,0 +1,62 @@
+pipeline {
+
+    agent any
+
+    environment {
+        IMAGE_NAME = "biswa2204/angular-app"
+    }
+
+    stages {
+
+        stage('Git Checkout') {
+            steps {
+                git branch: 'main',
+                url: 'https://github.com/Biswagudu/Angular-cicd-demo.git'
+            }
+        }
+
+        stage('Sonar Scan') {
+            steps {
+                withSonarQubeEnv('Sonar') {
+                    sh '''
+                    sonar-scanner \
+                    -Dsonar.projectKey=angular-app \
+                    -Dsonar.sources=.
+                    '''
+                }
+            }
+        }
+
+        stage('Build Docker Image') {
+            steps {
+                sh '''
+                docker build -t ${IMAGE_NAME}:v1 .
+                '''
+            }
+        }
+
+        stage('Push Image') {
+            steps {
+                withCredentials([usernamePassword(
+                credentialsId: 'dockerhub',
+                usernameVariable: 'USER',
+                passwordVariable: 'PASS')]) {
+
+                    sh '''
+                    echo $PASS | docker login -u $USER --password-stdin
+                    docker push ${IMAGE_NAME}:v1
+                    '''
+                }
+            }
+        }
+
+        stage('Deploy Kubernetes') {
+            steps {
+                sh '''
+                kubectl apply -f deployment.yaml
+                kubectl apply -f service.yaml
+                '''
+            }
+        }
+    }
+}

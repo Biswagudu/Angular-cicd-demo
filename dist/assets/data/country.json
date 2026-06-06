@@ -1,0 +1,77 @@
+{
+    "header": {
+        "transactionHeaderResponse": {
+            "txnNo": "9830098300344444",
+            "tType": " TMS00007"
+        },
+        "hashedResponse": ""
+    },
+    "body": {
+        "countryResponse": {
+            "responseCode": "000",
+            "responseMessage": "Success",
+            "countryListBeans": [
+                {
+                    "countryId": "355",
+                    "countryName": "Argentina",
+                    "currDesc": "ARS"
+                },
+                {
+                    "countryId": "336",
+                    "countryName": "Bermunda",
+                    "currDesc": "BMD"
+                },
+                {
+                    "countryId": "558",
+                    "countryName": "Canada",
+                    "currDesc": "CAD"
+                },
+                {
+                    "countryId": "401",
+                    "countryName": "bbbb",
+                    "currDesc": "BGN"
+                },
+                {
+                    "countryId": "122",
+                    "countryName": "aaaaaa",
+                    "currDesc": "BGN"
+                },
+                {
+                    "countryId": "334",
+                    "countryName": "AUSTRIA",
+                    "currDesc": "EUR"
+                },
+                {
+                    "countryId": "335",
+                    "countryName": "Belgium12",
+                    "currDesc": "EUR"
+                },
+                {
+                    "countryId": "500",
+                    "countryName": "TestCountry",
+                    "currDesc": "MXV"
+                },
+                {
+                    "countryId": "501",
+                    "countryName": "TestCountryName",
+                    "currDesc": "MXV"
+                },
+                {
+                    "countryId": "455",
+                    "countryName": "Saudi Arabia",
+                    "currDesc": "MXV"
+                },
+                {
+                    "countryId": "981",
+                    "countryName": "EUROPE",
+                    "currDesc": "MXV"
+                },
+                {
+                    "countryId": "777",
+                    "countryName": "Saudi Arabia",
+                    "currDesc": "MXV"
+                }
+            ]
+        }
+    }
+}
