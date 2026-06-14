@@ -1,9 +1,9 @@
 {
   "baseDomain": "localhost",
-  "basePath": "",
+  "basePath": "tms2/",
   "podDomain": "",
   "loginHostUrl": "http://localhost:4200",
-  "tmsAPIUrl": "http://10.44.11.56:8097/TMSS",
+  "tmsAPIUrl": "http://192.168.29.215:8097/TMSS",
   "externalLogoutUrl":"https://10.2.247.2:444/pkmslogout",
   "externalForgotPasswordUrl": "https://10.2.247.2:444/mga/sps/authsvc?PolicyId=urn:ibm:security:authentication:asf:mobilePasswordReset",
   "isExternalPortal": false,
